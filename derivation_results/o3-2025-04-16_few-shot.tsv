@@ -1,0 +1,43 @@
+Lemma	Semantisk?_kat_1	Kandid?ts	Semantisk?_kat_2	Paskaidrojums	Bie?ums	Tips	Grupa	Manu?la p?rbaude		Kop?	
+veikt	Dar?t	veikums	Rezult?ts	at?em infinit?vam galotni -t un pievieno rezult?ta sufiksu -ums	8126	T	V	T		Der?gi deriv?ti	29
+veikt	Dar?t	veiksme	Rezult?ts	at?em infinit?vam galotni -t, papla?ina k?ks un pievieno sufiksu -sme	28480	T	V	F		Neder?gi deriv?ti	11
+zvaigzne	Priek?mets	zvaig??ots	Ietver nosaukto	sakne zvaigzn- asimil?jas par zvaig??- un pievieno sufiksu -ots	1110	T	V	T		Precizit?te	0,725
+zvaigzne	Priek?mets	zvaig??ains	Ietver nosaukto	sakne zvaigzn- asimil?jas par zvaig??- un pievieno sufiksu -ains	7	T	V	T			
+p?st	B?t proces?	p??ana	Process	Atmet infinit?va galotni -t un pievieno sufiksu -?ana, t? izveidojot procesa lietv?rdu	974	T	V	T		V	
+p?st	B?t proces?	sap??ana	Process	Verbam pievieno pried?kli sa-, atmet galotni -t un pievieno sufiksu -?ana, ieg?stot procesa nosaukumu	71	T	V	T		Der?gi deriv?ti	10
+riebt	B?t st?vokl?	riebums	St?voklis	saknei rieb- pievieno sufiksu -ums un ieg?st 4. deklin?cijas lietv?rdu st?vok?a noz?m?	1998	T	V	T		Neder?gi deriv?ti	3
+riebt	B?t st?vokl?	rieb?gums	St?voklis	saknei rieb- pievieno sufiksus -?g- un -ums, veidojot 4. deklin?cijas lietv?rdu st?vok?a noz?m?	33	T	V	T		Precizit?te	0,769
+riebt	B?t st?vokl?	rieb?ba	St?voklis	saknei rieb- pievieno sufiksu -?b- un galotni -a, radot 5. deklin?cijas lietv?rdu st?vok?a noz?m?	0	F	V	F			
+medic?na	Abstrakts noj?gums	medic?nisks	Saist?ts ar nosaukto	Nominales galotne -a tiek nomesta un pievienots sufikss -isk- ar galotni -s, veidojot ?pa??bas v?rdu saist?tu ar medic?nu	16946	T	V	T		I	
+skriet	Dar?t	skr?j?js	Dar?t?js (dz?vs)	pag?tnes celms skr?j- + a?enta sufikss -?js (infinit?va galotnes -t nomai?a)	7774	T	V	T		Der?gi deriv?ti	5
+skriet	Dar?t	skr?j?ja	Dar?t?js (dz?vs)	pag?tnes celms skr?j- + a?enta sufikss -?ja sievie?u dzimtei (infinit?va galotnes -t nomai?a)	874	T	V	D		Neder?gi deriv?ti	2
+ideja	Abstrakts noj?gums	idejisks	Saist?ts ar nosaukto	atmesta galotne -a un pievienots sufikss -isks ?pa??bas v?rdam	1323	T	V	T		Precizit?te	0,714
+ideja	Abstrakts noj?gums	idejains	Saist?ts ar nosaukto	atmesta galotne -a un pievienots sufikss -ains ?pa??bas v?rdam	0	F	V	F			
+nest	Dar?t	ne?ana	Darb?ba	no?em infinit?va galotni -t un pievieno sufiksu -?ana, saknes s palataliz?jas par ?, veidojot darb?bas nosaukumu	1137	T	I	T		J	
+iet	B?t proces?	ie?ana	Process	verbu pamatnei 'ie-' pievieno procesa sufiksu '-?ana'	5770	T	I	T		Der?gi deriv?ti	6
+iet	B?t proces?	g?jiens	Process	sakni p?rveido uz formu 'g?j-' un pievieno procesa sufiksu '-iens'	21110	T	I	F		Neder?gi deriv?ti	4
+iet	B?t proces?	g?jums	Process	sakni p?rveido uz formu 'g?j-' un pievieno procesa sufiksu '-ums'	3246	T	I	F		Precizit?te	0,600
+ir	B?t st?vokl?	b??ana	St?voklis	verbu celmam b?- pievieno sufiksu -?an- un galotni -a, ieg?stot lietv?rdu ar st?vok?a noz?mi	6933	T	I	T			
+ir	B?t st?vokl?	esam?ba	St?voklis	verbu formu celmam esam- pievieno sufiksu -?ba, veidojot lietv?rdu, kas apz?m? past?v??anas st?vokli	11371	T	I	T		N	
+ir	B?t st?vokl?	es?ba	St?voklis	sa?sin?tajam celmam es- pievieno sufiksu -?ba un reduc? starpska?u, veidojot ?s?ku st?vok?a lietv?rdu	3484	T	I	T		Der?gi deriv?ti	8
+atklusin?t	Dar?t	atklusin?t?js	Instruments	no?emta infinit?va galotne -t un pievienots instrumenta sufikss -?js	0	F	J	T		Neder?gi deriv?ti	2
+atklusin?t	Dar?t	atklusin?mais	Instruments	no?emta infinit?va galotne -t un pievienots instrumenta sufikss -amais	0	F	J	T		Precizit?te	0,800
+sejauts	Priek?mets	sejautots	Ietver nosaukto	Nominat?va galotne -s tiek nomesta un pamatstemam sejaut- pievieno sufiksu -ots	0	F	J	T			
+sejauts	Priek?mets	sejautains	Ietver nosaukto	Nominat?va galotne -s tiek nomesta un pamatstemam sejaut- pievieno sufiksu -ains	0	F	J	F			
+telpiskot	B?t proces?	telpisko?ana	Process	infinit?va galotni -t aizst?j ar sufiksu -?ana, veidojot sievie?u dzimtes darb?bas procesu lietv?rdu	1	M	J	T			
+telpiskot	B?t proces?	telpiskojums	Process	infinit?va galotni -t aizst?j ar sufiksu -jums, veidojot v?rie?u dzimtes procesu lietv?rdu	0	F	J	F			
+sliecin?t	B?t st?vokl?	sliecin??ana	St?voklis	No?em galotni '-t' un pievieno sufiksu '-??ana'	0	F	J	T			
+sliecin?t	B?t st?vokl?	sliecin?jums	St?voklis	No?em galotni '-t' un pievieno sufiksu '-?jums'	0	F	J	F			
+aizst?jeklis	Abstrakts noj?gums	aizst?jeklisks	Saist?ts ar nosaukto	No?em galotni '-is' un pievieno ?pa??bas v?rda sufiksu '-isks'	0	F	J	T			
+aizst?jeklis	Abstrakts noj?gums	aizst?jeklveid?gs	Saist?ts ar nosaukto	No?em galotni '-is' un pievieno sufiksu '-veid?gs', kas nor?da l?dz?bu vai pieder?bu nosauktajam	0	F	J	F			
+t?rbst?t	Dar?t	t?rbst?tava	Vieta (lietv)	no darb?bas v?rda atmetam infinit?va galotni -?t un pievienojam vietas nosaukumu veidojo?o sufiksu -ava	0	F	N	T			
+t?rbst?t	Dar?t	t?rbst?tuve	Vieta (lietv)	no darb?bas v?rda atmetam infinit?va galotni -?t un pievienojam vietas nosaukumu veidojo?o sufiksu -uve	0	F	N	T			
+plakstule	Priek?mets	plakstulots	Ietver nosaukto	pie saknes 'plakstul-' pievienots sufikss -ots, veidojot ?pa??bas v?rdu ar noz?mi 'pilns ar plakstul?m'	0	F	N	T			
+plakstule	Priek?mets	plakstulains	Ietver nosaukto	pie saknes 'plakstul-' pievienots sufikss -ains, veidojot ?pa??bas v?rdu ar noz?mi 'pilns ar plakstul?m'	0	F	N	T			
+glim??t	B?t proces?	glim???ana	Process	infinit?va galotni -t aizst?j ar darb?bas lietv?rda sufiksu -?ana	0	F	N	T			
+glim??t	B?t proces?	glim??jums	Process	stumbram pievieno starpsufiksu -?j- un procesa lietv?rda sufiksu -ums	0	F	N	F			
+glim??t	B?t proces?	glim???an?s	Process	infinit?va -t aizst?j ar atgriezenisko formu -ties un procesa sufiksu -?an?s	0	F	N	D			
+skurpel?gs	B?t st?vokl?	skurpel?gums	St?voklis	aizst?jam adjekt?va sufiksu -?gs ar lietv?rda sufiksu -?gums, ieg?stot st?vok?a nosaukumu	0	F	N	T			
+skurpel?gs	B?t st?vokl?	skurpel?ba	St?voklis	no?emam sufiksu -?gs un pievienojam lietv?rda sufiksu -?ba, veidojot st?vok?a apz?m?jumu	0	F	N	F			
+zvilgsme	Abstrakts noj?gums	zvilgsmisks	Saist?ts ar nosaukto	Nom. galotni -e nolai? un pie saknes zvilgsm- pievieno sufiksu -isks, ieg?stot ?pa??bas v?rdu ‘saist?ts ar zvilgsmi’	0	F	N	T			
+zvilgsme	Abstrakts noj?gums	zvilgsm?gs	Saist?ts ar nosaukto	Nom. galotni -e aizst?j ar sufiksu -?gs, veidojot ?pa??bas v?rdu ‘saist?ts ar zvilgsmi’	0	F	N	T			

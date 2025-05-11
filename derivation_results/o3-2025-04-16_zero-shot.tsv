@@ -1,0 +1,51 @@
+Lemma	Semantiskâ_kat_1	Kandidâts	Semantiskâ_kat_2	Paskaidrojums	Bieþums	Tips	Grupa	Manuâla pârbaude		Kopâ	
+veikt	Darît	veikums	Rezultâts	Pievienots sufikss -um- un galotne -s pie saknes veik- lai iegûtu lietvârdu ar rezultâta nozîmi	8126	T	V	T		Derîgi derivâti	25
+veikt	Darît	veiktais	Rezultâts	No saknes veik- izveidots pagâtnes cieðamâs kârtas divdabis ar sufiksu -t- un noteiktâs formas piedçkli -ais, substantîvizçjoties apzîmç darbîbas rezultâtu	2062	T	V	T		Nederîgi derivâti	21
+zvaigzne	Priekðmets	zvaigznâjs	Ietver nosaukto	Saknei “zvaigzn-” pievienots sufikss “-âjs”, izveidojot lietvârdu, kas nosauc objektu/kopumu, kurâ ietvertas zvaigznes (konstelâcija)	2804	T	V	F		Precizitâte	0,543
+zvaigzne	Priekðmets	zvaigþòains	Ietver nosaukto	No saknes ar lîdzskaòu pârveidi “zvaigzn-”?“zvaigþò-” pievienots sufikss “-ains”, radot îpaðîbas vârdu, kas apzîmç kaut ko zvaigznçm pilnu (piemçram, zvaigþòainas debesis)	7	T	V	T			
+pûst	Bût procesâ	pûðana	Process	verbu saknei pû- pievieno sufiksu -ðana lai izveidotu procesa lietvârdu	974	T	V	T		V	
+pûst	Bût procesâ	pûtiens	Process	verbu saknei pût- pievieno sufiksu -iens lai izveidotu procesa lietvârdu	450	T	V	F		Derîgi derivâti	8
+pûst	Bût procesâ	pûtums	Process	verbu saknei pût- pievieno sufiksu -ums lai izveidotu procesa lietvârdu	0	F	V	F		Nederîgi derivâti	6
+riebt	Bût stâvoklî	riebums	Stâvoklis	pie darbîbas vârda pamata rieb- pievienots sufikss -ums	1998	T	V	T		Precizitâte	0,571
+riebt	Bût stâvoklî	riebîba	Stâvoklis	pie darbîbas vârda pamata rieb- pievienots sufikss -îba	0	F	V	F			
+medicîna	Abstrakts nojçgums	medicînisks	Saistîts ar nosaukto	Pievienots sufikss -isk- pie saknes medicîn- un adjektîva galotne -s, veidojot îpaðîbas vârdu ar nozîmi ‘saistîts ar medicînu’	16946	T	V	T		I	
+medicîna	Abstrakts nojçgums	medicîniskais	Saistîts ar nosaukto	No formas medicînisks pievienota noteiktâ galotne -ais, radot noteikto îpaðîbas vârdu ‘saistîts ar medicînu’	363	T	V	D		Derîgi derivâti	7
+skriet	Darît	skrçjçjs	Darîtâjs (dzîvs)	Saknes vokâla maiòa i?ç un pievienots darîtâja sufikss -çj- ar vîrieðu dzimtes galotni -s	7774	T	V	T		Nederîgi derivâti	3
+skriet	Darît	skrçjçja	Darîtâjs (dzîvs)	Saknes vokâla maiòa i?ç un pievienots darîtâja sufikss -çj- ar sievieðu dzimtes galotni -a	874	T	V	D		Precizitâte	0,700
+ideja	Abstrakts nojçgums	idejisks	Saistîts ar nosaukto	substantîva “ideja” galotne -a aizstâta ar sufiksu -isks, veidojot îpaðîbas vârdu ‘saistîts ar ideju’	1323	T	V	T			
+ideja	Abstrakts nojçgums	idejains	Saistîts ar nosaukto	substantîvam “ideja” noòemta galotne -a un pievienots sufikss -ains, radot îpaðîbas vârdu ‘saistîts ar idejâm’	0	F	V	F		J	
+ideja	Abstrakts nojçgums	idejîgs	Saistîts ar nosaukto	"substantîvam “ideja” noòemta galotne -a un pievienots sufikss -îgs, iegûstot îpaðîbas vârdu ‘tâdam, kam ir idejas; saistîts ar idejâm’"	0	F	V	F		Derîgi derivâti	4
+nest	Darît	neðana	Darbîba	Noòem galotni '-t' un pamatnei 'nes-' pievieno sufiksu '-ðana'	1137	T	I	T		Nederîgi derivâti	6
+nest	Darît	nesums	Darbîba	Noòem galotni '-t' un pamatnei 'nes-' pievieno sufiksu '-ums'	18	T	I	F		Precizitâte	0,400
+nest	Darît	nesiens	Darbîba	Noòem galotni '-t' un pamatnei 'nes-' pievieno sufiksu '-iens'	22	T	I	F			
+iet	Bût procesâ	ieðana	Process	pievienots sufikss -ðan- un galotne -a pârvçrð darbîbas vârdu lietvârdâ, kas apzîmç paðu ieðanas procesu	5770	T	I	T		N	
+iet	Bût procesâ	gâjiens	Process	verbu pagâtnes pamatne gâj- papildinâta ar sufiksu -ien- un galotni -s, iegûstot procesa nozîmes lietvârdu	21110	T	I	F		Derîgi derivâti	6
+iet	Bût procesâ	gaita	Process	saknes patskaòa maiòa ie?ai un sufiksa -t- pievienoðana ar galotni -a veido procesa jçdzienu apzîmçjoðu lietvârdu	82177	T	I	T		Nederîgi derivâti	6
+ir	Bût stâvoklî	bûðana	Stâvoklis	saknei bû- pievieno sufiksu -ðan- un galotni -a	6933	T	I	T		Precizitâte	0,500
+ir	Bût stâvoklî	bûtîba	Stâvoklis	saknei bût- pievieno sufiksu -îb- un galotni -a	72659	T	I	T			
+ir	Bût stâvoklî	esamîba	Stâvoklis	saknei es- pievieno infiksu -am-, sufiksu -îb- un galotni -a	11371	T	I	T			
+ir	Bût stâvoklî	esîba	Stâvoklis	saknei es- pievieno sufiksu -îb- un galotni -a	3484	T	I	T			
+atklusinât	Darît	atklusinâtâjs	Instruments	pievieno sufiksu -âjs darbîbas vârda celmam, iegûstot lietvârdu, kas apzîmç instrumentu darbîbas veikðanai	0	F	J	T			
+sejauts	Priekðmets	sçjautmaiss	Ietver nosaukto	Saliktenis: pie lietvârda pamata 'sçjaut-' pievieno otru komponentu '-maiss', veidojot nosaukumu maisam, kas satur sçjautu.	0	F	J	F			
+sejauts	Priekðmets	sçjautkaste	Ietver nosaukto	Saliktenis: pie lietvârda pamata 'sçjaut-' pievieno otru komponentu '-kaste', radot vârdu kastei, kurâ glabâ sçjautu.	0	F	J	F			
+sejauts	Priekðmets	sçjauttrauks	Ietver nosaukto	Saliktenis: pie lietvârda pamata 'sçjaut-' pievieno otru komponentu '-trauks', iegûstot nosaukumu traukam sçjautam.	0	F	J	F			
+telpiskot	Bût procesâ	telpiskoðana	Process	noòemta infinitîva galotne -t un pievienots sufikss -ðan- ar galotni -a, veidojot procesu apzîmçjoðu lietvârdu	1	M	J	T			
+telpiskot	Bût procesâ	telpiskojums	Process	infinitîva galotne -t aizstâta ar sufiksu -ojum- (-jums), radot procesu apzîmçjoðu lietvârdu	0	F	J	F			
+telpiskot	Bût procesâ	telpiskoðanâs	Process	atmetot galotni -t un pievienojot refleksîvo formantu -ies (? -ð-) un sufiksu -ân- (-ðanâs), izveidots procesu apzîmçjoðs lietvârds	0	F	J	D			
+sliecinât	Bût stâvoklî	sliecinîba	Stâvoklis	Darbîbas vârda galotni -ât aizstâj ar sufiksu -îba, izveidojot abstraktu lietvârdu stâvokïa nozîmç	0	F	J	F			
+sliecinât	Bût stâvoklî	sliecinâjums	Stâvoklis	Darbîbas vârda galotni -ât aizstâj ar sufiksu -âjums, veidojot lietvârdu, kas apzîmç iegûtu stâvokli	0	F	J	F			
+aizstâjeklis	Abstrakts nojçgums	aizstâjeklisks	Saistîts ar nosaukto	atmet galotni -is un pievieno îpaðîbas vârda sufiksu -isks, kas norâda piederîbu vai saistîbu ar aizstâjekli	0	F	J	T			
+aizstâjeklis	Abstrakts nojçgums	aizstâjeklîgs	Saistîts ar nosaukto	atmet galotni -is un pievieno îpaðîbas vârda sufiksu -îgs, veidojot îpaðîbas vârdu ar nozîmi ‘tâds, kam piemît aizstâjekïa pazîmes’	0	F	J	T			
+tçrbstît	Darît	tçrbstîtava	Vieta (lietv)	atmetot darbîbas vârda galotni -t un pievienojot vietas nosaukumu veidojoðo sufiksu -ava	0	F	N	T			
+tçrbstît	Darît	tçrbstîtnîca	Vieta (lietv)	atmetot darbîbas vârda galotni -t un pievienojot vietas nosaukumu veidojoðo sufiksu -nîca	0	F	N	F			
+plakstule	Priekðmets	plakstulnîca	Ietver nosaukto	pamatformai plakstule atmet galotni -e un pievieno piedçkli -nîca, kas apzîmç vietu vai trauku priekðmeta glabâðanai	0	F	N	F			
+plakstule	Priekðmets	plakstulkaste	Ietver nosaukto	pamatformai plakstule atmet galotni -e un saliktenî pievieno otru daïu kaste, kas apzîmç konteineru	0	F	N	F			
+plakstule	Priekðmets	plakstulvâcele	Ietver nosaukto	pamatformai plakstule atmet galotni -e un pievieno piedçkli -vâcele, kas veido nosaukumu mazam traukam priekðmeta turçðanai	0	F	N	F			
+glimþçt	Bût procesâ	glimþçðana	Process	Pie darbîbas vârda pamatnes glimþç- pievienots sufikss -ðan- un galotne -a, veidojot verbâlo lietvârdu procesa apzîmçðanai	0	F	N	T			
+glimþçt	Bût procesâ	glimþçjums	Process	Pie darbîbas vârda pamatnes pievienots sufikss -jum- un galotne -s, radot lietvârdu, kas nosauc procesu	0	F	N	F			
+glimþçt	Bût procesâ	glimþçðanâs	Process	Pievienots atgriezeniskais morfçms -ies un pçc tam sufikss -ðan- ar galotni -s, izveidojot lietvârdu procesa nosaukðanai	0	F	N	D			
+skurpelîgs	Bût stâvoklî	skurpelîgums	Stâvoklis	adjektîva sufiksu -îgs aizstâj ar lietvârda sufiksu -îgums, pârvçrðot îpaðîbas vârdu par stâvokïa apzîmçjumu	0	F	N	T			
+skurpelîgs	Bût stâvoklî	skurpelîba	Stâvoklis	noòem adjektîva sufiksu -îgs un tâ vietâ pievieno lietvârda sufiksu -îba, iegûstot stâvokïa nosaukumu	0	F	N	F			
+zvilgsme	Abstrakts nojçgums	zvilgsmîgs	Saistîts ar nosaukto	Noòem galotnes patskani -e un pievieno sufiksu -îgs, izveidojot îpaðîbas vârdu, kas nozîmç ‘saistîts ar zvilgsmi’	0	F	N	T			
+zvilgsme	Abstrakts nojçgums	zvilgsmains	Saistîts ar nosaukto	Noòem galotni -e un pievieno sufiksu -ains, izveidojot îpaðîbas vârdu, kas nozîmç ‘saistîts ar zvilgsmi’	0	F	N	T			
+zvilgsme	Abstrakts nojçgums	zvilgsmisks	Saistîts ar nosaukto	Noòem galotni -e un pievieno sufiksu -isks, izveidojot îpaðîbas vârdu, kas nozîmç ‘saistîts ar zvilgsmi’	0	F	N	T			

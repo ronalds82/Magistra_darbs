@@ -1,0 +1,26 @@
+Lemma	Semantiskâ_kat_1	Kandidâts	Semantiskâ_kat_2	Paskaidrojums	Bieþums	Tips	Grupa	Manuâla pârbaude		Kopâ	
+veikt	Darît	Veikums	Rezultâts	Atvasinâjums veidots, pievienojot saknei sufiksu '-ums'.	8126	T	V	T		Derîgi derivâti	19
+zvaigzne	Priekðmets	Zvaigznâjs	Ietver nosaukto	Pielikts sufikss '-âjs' un atmesta galotne '-e'.	2804	T	V	F		Nederîgi derivâti	6
+pûst	Bût procesâ	pûðana	Process	Pievienojot sufiksu '-ðana'	974	T	V	T		Precizitâte	0,760
+riebt	Bût stâvoklî	riebums	Stâvoklis	Pielikts piedçklis '-ums' darbîbas vârda celmam.	1998	T	V	T			
+medicîna	Abstrakts nojçgums	medicînisks	Saistîts ar nosaukto	Noòemta galotne '-a', pievienots sufikss '-isks'.	16946	T	V	T		V	
+medicîna	Abstrakts nojçgums	mediíis	Saistîts ar nosaukto	Noòemta galotne '-îna', pievienots sufikss '-íis'.	15443	T	V	F		Derîgi derivâti	6
+skriet	Darît	Skrçjçjs	Darîtâjs (dzîvs)	Veidojot atvasinâjumu, darbîbas vârda celmam tiek pievienota piedçklis '-çjs', kas norâda darîtâju. Ðajâ gadîjumâ tiek izmantots celms 'skrçj-', kas ir saistîts ar darbîbas vârda sakni.	7774	T	V	T		Nederîgi derivâti	2
+ideja	Abstrakts nojçgums	idejisks	Saistîts ar nosaukto	Noòemta galotne -a un pievienots piedçklis -isks, lai veidotu ar vârdu saistîtu îpaðîbas vârdu.	1323	T	V	T		Precizitâte	0,750
+nest	Darît	Neðana	Darbîba	Pievienots piedçklis '-ðana' darbîbas vârda celmam.	1137	T	I	T			
+iet	Bût procesâ	ieðana	Process	No darbîbas vârda celma pievienots lietvârda sufikss '-ðana'.	5770	T	I	T		I	
+iet	Bût procesâ	gaita	Process	No darbîbas vârda 'iet' vai radniecîga celma atvasinâts lietvârds, kas apzîmç ieðanas procesu vai manieri.	37961	T	I	T		Derîgi derivâti	4
+ir	Bût stâvoklî	Bûðana	Stâvoklis	No darbîbas vârda celma 'bû-' veidots lietvârds ar piedçkli '-ðana', apzîmç stâvokli vai eksistenci.	6933	T	I	T		Nederîgi derivâti	1
+ir	Bût stâvoklî	Stâvoklis	Stâvoklis	"Lai gan vârds 'stâvoklis' nav tieði atvasinâts no darbîbas vârda 'bût', tas ir visatbilstoðâkais lietvârds ar semantisko kategoriju 'Stâvoklis' latvieðu valodâ, kas ir konceptuâli saistîts ar ""bûðanu"" noteiktâ stâvoklî; tas veidots no darbîbas vârda 'stâvçt' ar piedçkli '-oklis'."	37748	T	I	F		Precizitâte	0,800
+atklusinât	Darît	Atklusinâtâjs	Instruments	"Atvasinâts ar sufiksu '-tâjs', kas veido darîtâjvârdu, bet ðajâ gadîjumâ var apzîmçt arî lîdzekli vai rîku, kas veic atklusinâðanas darbîbu (piemçram, ""atklusinâtâjs"" kâ informâcijas avots)."	0	F	J	T			
+atklusinât	Darît	Atklusinâmais	Instruments	"Atvasinâts no divdabja formas ar sufiksu '-âmais', kas var apzîmçt priekðmetu vai lîdzekli, kurð tiek izmantots darbîbas veikðanai vai kas veic darbîbu (piemçram, ""atklusinâmais"" kâ izmeklçðanas rîks vai paòçmiens)."	0	F	J	T		J	
+sejauts	Priekðmets	sejautots	Ietver nosaukto	Pievienots sufikss '-ots'.	0	F	J	T		Derîgi derivâti	6
+telpiskot	Bût procesâ	telpiskoðana	Process	Atmet verba galotni '-ot' un pievieno sufiksu '-oðana'.	1	M	J	T		Nederîgi derivâti	0
+sliecinât	Bût stâvoklî	Sliecinâjums	Stâvoklis	No verba infinitîva formas 'sliecinât' (ar celmu 'sliecinâ-') tiek noòemta galotne '-t' un pievienots lietvârda sufikss '-jums'.	0	F	J	T		Precizitâte	1,000
+aizstâjeklis	Abstrakts nojçgums	Aizstâjeklisks	Saistîts ar nosaukto	Pievienots piedçklis '-isks', lai veidotu îpaðîbas vârdu no lietvârda.	0	F	J	T			
+tçrbstît	Darît	Tçrbstîtava	Vieta (lietv)	No verba celma 'tçrbstî-' (atmetot nenoteiksmes galotni -t) pievieno lietvârda vietvârda sufiksu '-tava'.	0	F	N	T		N	
+plakstule	Priekðmets	Plakstuïains	Ietver nosaukto	Pievienots piedçklis '-ains' un notikusi saknes lîdzskaòa palatalizâcija (l > ï).	0	F	N	F		Derîgi derivâti	3
+glimþçt	Bût procesâ	glimþçðana	Process	Atvasinâts no darbîbas vârda celma ar sufiksu '-ðana'.	0	F	N	T		Nederîgi derivâti	3
+skurpelîgs	Bût stâvoklî	skurpelîba	Stâvoklis	Sufikss -îgs aizstâts ar -îba.	0	F	N	F		Precizitâte	0,500
+zvilgsme	Abstrakts nojçgums	zvilgs	Saistîts ar nosaukto	No nomena 'zvilgsme' atvasinâts adjektîvs, mainot sakni vai pievienojot atvasinâjuma piedçkli un galotni, kas apzîmç piederîbu vai îpaðîbu.	0	F	N	F			
+zvilgsme	Abstrakts nojçgums	zvilgsmains	Saistîts ar nosaukto	No nomena 'zvilgsme' atvasinâts adjektîvs, pievienojot piedçkli '-ain-' un adjektîva galotni.	0	F	N	T			

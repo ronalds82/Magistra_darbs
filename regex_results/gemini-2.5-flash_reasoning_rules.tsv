@@ -1,0 +1,82 @@
+﻿Darīt	Darbība	s#^(.*?)ēt$#\1ēšana#
+Darīt	Darbība	s#^(.*?)āt$#\1šana#
+Darīt	Rezultāts	s#^(.*?)āt$#\1ājums#
+Darīt	Rezultāts	s#^(.*?)ot$#\1ojums#
+Darīt	Rezultāts	s#^(.*?)ināt$#\1osme#
+Darīt	Rezultāts	s#^(.*?)īt$#\1ījums#
+Darīt	Darītājs (dzīvs)	s#^(.*?)riet$#\1ējējs#
+Darīt	Darītājs (dzīvs)	s#^(.*?)āt$#\1ātājs#
+Darīt	Darītājs (dzīvs)	s#^(.*?)gt$#\1dzējs#
+Darīt	Darītājs (dzīvs)	s#^(.*?)ot$#\1ks#
+Darīt	Darītājs (dzīvs)	s#^(.*?)ēt$#\1sts#
+Priekšmets	Ietver nosaukto	s#^(.*?)a$#\1ains#
+Priekšmets	Ietver nosaukto	s#^(.*?)s$#\1ots#
+Priekšmets	Ietver nosaukto	s#^(.*?)ne$#\1ņots#
+Būt procesā	Process	s#^(.*?)ūt$#\1ūšana#
+Būt procesā	Process	s#^(.*?)iet$#\1ējums#
+Būt procesā	Process	s#^(.*?)ākt$#\1ākšana#
+Būt procesā	Process	s#^(.*?)ēt$#\1ēšanās#
+Būt stāvoklī	Stāvoklis	s#^(.*?)ēt$#\1e#
+Būt stāvoklī	Stāvoklis	s#^(.*?)ties$#\1sme#
+Būt stāvoklī	Stāvoklis	s#^(.*?)t$#\1šana#
+Būt stāvoklī	Stāvoklis	s#^(.*?)ēt$#\1di#
+Abstrakts nojēgums	Saistīts ar nosaukto	s#^(.*?)ika$#\1isks#
+Abstrakts nojēgums	Saistīts ar nosaukto	s#^(.*?)ija$#\1isks#
+Abstrakts nojēgums	Saistīts ar nosaukto	s#^(.*?)ība$#\1isks#
+Darīt	Vieta (lietvārds)	s#^(.*?)dzīt$#\1dzītuve#
+Darīt	Vieta (lietvārds)	s#^(.*?)ēst$#\1ēdnīca#
+Darīt	Vieta (lietvārds)	s#^(.*?)lūgt$#\1lūgtuve#
+Darīt	Vieta (lietvārds)	s#^(.*?)ražot$#\1ražotava#
+Darīt	Vieta (lietvārds)	s#^(.*?)dzīvot$#\1dzīvoklis#
+Darīt	Cits	s#^(.*?)st$#\1zums#
+Darīt	Cits	s#^(.*?)t$#\1šana#
+Darīt	Cits	s#^(.*?)t$#\1klis#
+Darīt	Cits	s#^(.*?)st$#\1deklis#
+Darīt	Cits	s#^(.*?)āt$#\1dzība#
+Darīt	Instruments	s#^(.*?)āt$#\1s#
+Darīt	Instruments	s#^(.*?)ot$#\1otājs#
+Darīt	Instruments	s#^(.*?)ēt$#\1eklis#
+Darīt	Instruments	s#^(.*?)igt$#\1iedzamais#
+Darīt	Darbība	s#^(.*?)ēt$#\1ēšana#
+Darīt	Darbība	s#^(.*?)āt$#\1āšana#
+Darīt	Darbība	s#^(.*?)gāt$#\1dzība#
+Darīt	Darbība	s#^(.*?)īt$#\1īt#
+Darīt	Rezultāts	s#^(.*?)īt$#\1ījums#
+Darīt	Rezultāts	s#^(.*?)āt$#\1me#
+Darīt	Rezultāts	s#^(.*?)ot$#\1ojums#
+Darīt	Rezultāts	s#^(.*?)āt$#\1ājums#
+Darīt	Rezultāts	s#^(.*?)iedāt$#\1iesma#
+Darīt	Darītājs (dzīvs)	s#^(.*?)āt$#\1ātājs#
+Darīt	Darītājs (dzīvs)	s#^(.*?)ot$#\1ks#
+Darīt	Darītājs (dzīvs)	s#^(.*?)iet$#\1ējējs#
+Darīt	Darītājs (dzīvs)	s#^(.*?)igt$#\1iedzējs#
+Darīt	Darītājs (dzīvs)	s#^(.*?)ēt$#\1sts#
+Priekšmets	Ietver nosaukto	s#^(.*?)e$#\1ņots#
+Priekšmets	Ietver nosaukto	s#^(.*?)s$#\1ots#
+Priekšmets	Ietver nosaukto	s#^(.*?)ne$#\1ņots#
+Priekšmets	Ietver nosaukto	s#^(.*?)a$#\1ains#
+Priekšmets	Ietver nosaukto	s#^(.*?)a$#\1ains#
+Būt procesā	Process	s#^(.*?)t$#\1šana#
+Būt procesā	Process	s#^(.*?)ēt$#\1ēšanās#
+Būt procesā	Process	s#^(.*?)riet$#\1rējums#
+Būt stāvoklī	Stāvoklis	s#^(.*?)ties$#\1sme#
+Būt stāvoklī	Stāvoklis	s#^(.*?)t$#\1šana#
+Būt stāvoklī	Stāvoklis	s#^(.*?)ēt$#\1i#
+Būt stāvoklī	Stāvoklis	s#^(.*?)ēt$#\1e#
+Būt stāvoklī	Stāvoklis	s#^(.*?)ēt$#\1ēšana#
+Abstrakts nojēgums	Saistīts ar nosaukto	s#^(.*?)ība$#\1isks#
+Abstrakts nojēgums	Saistīts ar nosaukto	s#^(.*?)ika$#\1isks#
+Abstrakts nojēgums	Saistīts ar nosaukto	s#^(.*?)ija$#\1isks#
+Darīt	Vieta (lietvārds)	s#^(.*?)ot$#\1otava#
+Darīt	Vieta (lietvārds)	s#^(.*?)ot$#\1oklis#
+Darīt	Vieta (lietvārds)	s#^(.*?)st$#\1dnīca#
+Darīt	Vieta (lietvārds)	s#^(.*?)t$#\1tuve#
+Darīt	Cits	s#^(.*?)āt$#\1āšana#
+Darīt	Cits	s#^(.*?)āt$#\1dzība#
+Darīt	Cits	s#^(.*?)st$#\1zums#
+Darīt	Cits	s#^(.*?)t$#\1klis#
+Darīt	Cits	s#^(.*?)st$#\1deklis#
+Darīt	Instruments	s#^(.*?)ot$#\1otājs#
+Darīt	Instruments	s#^(.*?)āt$#\1s#
+Darīt	Instruments	s#^(.*?)gt$#\1dzamais#
+Darīt	Instruments	s#^(.*?)ēt$#\1eklis#

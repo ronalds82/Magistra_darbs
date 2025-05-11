@@ -1,0 +1,26 @@
+Lemma	Semantiskâ_kat_1	Kandidâts	Semantiskâ_kat_2	Paskaidrojums	Bieþums	Tips	Grupa	Manuâla pârbaude		Kopâ	
+veikt	Darît	veikums	Rezultâts	Pievienots sufikss -ums.	8126	T	V	T		Derîgi derivâti	17
+veikt	Darît	veiksme	Rezultâts	Pievienots sufikss -sme.	28480	T	V	F		Nederîgi derivâti	8
+zvaigzne	Priekðmets	zvaigþòots	Ietver nosaukto	Sufikss -ots/-ains tiek pievienots lemmas celmam.	1110	T	V	T		Precizitâte	0,680
+pûst	Bût procesâ	pûðana	Process	Lai iegûtu lietvârdu no darbîbas vârda, ir jânomaina galotne 't' uz galotni 'ðana'.	974	T	V	T			
+pûst	Bût procesâ	pûtiens	Process	Lai iegûtu lietvârdu no darbîbas vârda, ir jânomaina galotne 'st' uz galotni 'tiens'.	450	T	V	F		V	
+riebt	Bût stâvoklî	riebums	Stâvoklis	Aizvieto saknes galotni ar -ums.	1998	T	V	T		Derîgi derivâti	7
+medicîna	Abstrakts nojçgums	medicînisks	Saistîts ar nosaukto	"Atvasinâjums tiek veidots, pievienojot saknei ""medicîn-"" sufiksu ""-isks""."	16946	T	V	T		Nederîgi derivâti	2
+skriet	Darît	skrçjçjs	Darîtâjs (dzîvs)	"Pievieno piedçkli ""-çj-"" un galotni ""-s"", lai veidotu darbîbas vârda atvasinâjumu ar nozîmi ""darîtâjs""."	7774	T	V	T		Precizitâte	0,778
+ideja	Abstrakts nojçgums	idejisks	Saistîts ar nosaukto	Galotne -ija tiek nomainîta pret galotni -isks, kas norâda uz saistîbu ar sâkotnçjo vârdu.	1323	T	V	T			
+nest	Darît	neðana	Darbîba	Aizstâj verba saknes galotni ar -ðana.	1137	T	I	T		I	
+iet	Bût procesâ	ieðana	Process	Galotnes nomaiòa no -t uz -ðana.	5770	T	I	T		Derîgi derivâti	3
+ir	Bût stâvoklî	esamîba	Stâvoklis	Infinitiiva 'ir' pârvçrðot par lietvârdu ar piedçkli -îba.	11371	T	I	T		Nederîgi derivâti	0
+atklusinât	Darît	atklusinâtâjs	Instruments	Noòemiet infinitîva galotni '-ât' un pievienojiet sufiksu '-âtâjs'.	0	F	J	T		Precizitâte	1,000
+sejauts	Priekðmets	sejains	Ietver nosaukto	Noòemot galotni -auts un pievienojot -ains	2	M	J	F			
+telpiskot	Bût procesâ	telpiskoðana	Process	Galotne '-t' tiek nomainîta ar '-ðana'	1	M	J	T		J	
+telpiskot	Bût procesâ	telpiskojums	Process	Galotne '-t' tiek nomainîta ar '-jums'	0	F	J	F		Derîgi derivâti	3
+sliecinât	Bût stâvoklî	slieksme	Stâvoklis	Sakne 'sliec' + piedçklis '-sme'. Vârda beigu zilbe tiek noòemta.	77	T	J	F		Nederîgi derivâti	4
+sliecinât	Bût stâvoklî	sliecinâjums	Stâvoklis	Sakne 'sliecinâ' + piedçklis '-jums'.	0	F	J	T		Precizitâte	0,429
+aizstâjeklis	Abstrakts nojçgums	aizstâjçklisks	Saistîts ar nosaukto	Noòem 'is' un pievieno '-isks'	0	F	J	F			
+tçrbstît	Darît	tçrbstîtis	Vieta (lietv)	sufikss -îtis norâda uz vietu	0	F	N	F		N	
+plakstule	Priekðmets	plakstulains	Ietver nosaukto	Noòem galotni -e un pievieno piedçkli -ain un galotni -s.	0	F	N	T		Derîgi derivâti	4
+glimþçt	Bût procesâ	glimþçðana	Process	Lai no darbîbas vârda 'glimþçt' iegûtu atvasinâjumu ar semantisko kategoriju 'Process', ir nepiecieðams pievienot galotni '-ðana'.	0	F	N	T		Nederîgi derivâti	2
+skurpelîgs	Bût stâvoklî	skurpelîgums	Stâvoklis	"No îpaðîbas vârda ""skurpelîgs"" veidojam lietvârdu ar sufiksu ""-ums""."	0	F	N	T		Precizitâte	0,667
+skurpelîgs	Bût stâvoklî	skrupulozitâte	Stâvoklis	"No îpaðîbas vârda ""skrupuloza"" (tuvs sinonîms ""skurpelîgs"") veidojam lietvârdu ar sufiksu ""-itâte""."	7	T	N	F			
+zvilgsme	Abstrakts nojçgums	zvilgsmaina	Saistîts ar nosaukto	Lietvârds 'zvilgsme' ar sievieðu dzimtes galotni '-e' tiek pârveidots par sievieðu dzimtes îpaðîbas vârdu, pievienojot piedçkli '-ain-' un nomainot galotni uz '-a'.	0	F	N	T			

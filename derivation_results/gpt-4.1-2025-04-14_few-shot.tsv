@@ -1,0 +1,32 @@
+Lemma	Semantiskâ_kat_1	Kandidâts	Semantiskâ_kat_2	Paskaidrojums	Bieþums	Tips	Grupa	Manuâla pârbaude		Kopâ	
+veikt	Darît	veikums	Rezultâts	Pielikta sufiksâcija ar -ums (no darbîbas vârda 'veikt' tiek iegûts lietvârds ar rezultâta nozîmi).	8126	T	V	T		Derîgi derivâti	18
+veikt	Darît	veikums	Rezultâts	Vârda saknes 'veik-' izmantoðana un sufiksa -ums pievienoðana, lai izteiktu rezultâtu.	8126	T	V	D		Nederîgi derivâti	9
+zvaigzne	Priekðmets	zvaigþòots	Ietver nosaukto	Papildinâta ar sufiksu -òots, lai norâdîtu uz to, kas ietver zvaigznes.	1110	T	V	T		Precizitâte	0,667
+pûst	Bût procesâ	pûðana	Process	Pievieno sufiksu -ðana pie darbîbas vârda saknes 'pû-'	974	T	V	T			
+pûst	Bût procesâ	pûstums	Process	Pievieno sufiksu -ums pie darbîbas vârda saknes 'pû-'	0	F	V	F		V	
+riebt	Bût stâvoklî	rieba	Stâvoklis	infinitîva vietâ lietots formâlais lietvârds ar sufiksu -a, lai apzîmçtu stâvokli	34	T	V	F		Derîgi derivâti	7
+riebt	Bût stâvoklî	riebums	Stâvoklis	pievienots sufikss -ums darbîbas vârda saknei, lai izteiktu stâvokli	1998	T	V	T		Nederîgi derivâti	2
+medicîna	Abstrakts nojçgums	medicînisks	Saistîts ar nosaukto	Nominale termina 'medicîna' galotni '-a' aizstâj ar adjektîva sufiksu '-isks'.	16946	T	V	T		Precizitâte	0,778
+medicîna	Abstrakts nojçgums	medicîniska	Saistîts ar nosaukto	Nominale termina 'medicîna' galotni '-a' aizstâj ar adjektîva sufiksu '-isks' un pielâgo dzimtei.	886	T	V	D			
+skriet	Darît	skrçjçjs	Darîtâjs (dzîvs)	Pieliekot verbam 'skriet' atvasinâjuma sufiksu '-çj-' un galotni '-s', rodas lietvârds, kas apzîmç personu, kas skrien.	7774	T	V	T		I	
+ideja	Abstrakts nojçgums	idejisks	Saistîts ar nosaukto	no lemmas 'ideja' pievienota sufiksa daïa '-isks', pârveidojot galotni '-a' uz '-isks', lai izveidotu îpaðîbas vârdu ar nozîmi 'saistîts ar ideju'	1323	T	V	T		Derîgi derivâti	3
+nest	Darît	nçðana	Darbîba	"Verba saknei ""nest"" pievienota sufiksâcija ""-çðana"", lai izveidotu lietvârdu, kas apzîmç darbîbas procesu."	2	M	I	F		Nederîgi derivâti	2
+iet	Bût procesâ	ieðana	Process	Pievienoðanas process ir sufiksa '-ðana' pievienoðana verbam 'iet' tagadnes treðâs personas formâ 'iet', atmetot galotni un iegûstot lietvârdu, kas apzîmç darbîbas procesu.	5770	T	I	T		Precizitâte	0,600
+iet	Bût procesâ	gâjiens	Process	Sufiksa '-iens' pievienoðana verbam 'iet' darbîbas saknei, izveidojot lietvârdu, kas apzîmç procesâ esoðu darbîbu vai tâs norisi.	21110	T	I	F			
+ir	Bût stâvoklî	esîba	Stâvoklis	pievienota galotne -îba, kas norâda uz stâvokli	3484	T	I	T		J	
+ir	Bût stâvoklî	bûtîba	Stâvoklis	pievienota galotne -îba pie verbu saknes bût-, kas norâda uz stâvokli	72659	T	I	T		Derîgi derivâti	2
+atklusinât	Darît	atklusinâtâjs	Instruments	Pievienota sufiksa '-âjs', lai norâdîtu uz instrumentu, kas veic darbîbu.	0	F	J	T		Nederîgi derivâti	5
+atklusinât	Darît	atklusinâtâjs	Instruments	Pievienota sufiksa '-çjs', lai norâdîtu uz instrumentu, kas veic darbîbu (mazliet retâk sastopams, bet iespçjams).	0	F	J	D		Precizitâte	0,286
+sejauts	Priekðmets	sejaukts	Ietver nosaukto	Pievieno piedçkli -ts, lai radîtu îpaðîbas vârdu, kas nozîmç 'tâds, kas satur vai ietver sejautu'.	0	F	J	F			
+sejauts	Priekðmets	sejauktais	Ietver nosaukto	Pievieno artikulçto galotni -ais îpaðîbas vârdam 'sejaukts', lai apzîmçtu konkrçtu priekðmetu, kas ietver nosaukto (sejauts).	0	F	J	F		N	
+telpiskot	Bût procesâ	telpiskoðana	Process	Pievienota sufiksa -ðan-/-ðanâ- pie darbîbas vârda saknes, lai izveidotu lietvârdu, kas apzîmç procesu.	1	M	J	T		Derîgi derivâti	6
+sliecinât	Bût stâvoklî	slieksme	Stâvoklis	No darbîbas vârda 'sliecinât' atvasinâts lietvârds ar sufiksu '-sme', kas apzîmç stâvokli.	77	T	J	F		Nederîgi derivâti	0
+sliecinât	Bût stâvoklî	sliece	Stâvoklis	No darbîbas vârda 'sliecinât' atvasinâts lietvârds ar sufiksu '-e', kas arî var apzîmçt stâvokli.	394	T	J	F		Precizitâte	1,000
+aizstâjeklis	Abstrakts nojçgums	aizstâjçjlisks	Saistîts ar nosaukto	Galotne -is tiek aizstâta ar sufiksu -lisks, lai izveidotu îpaðîbas vârdu, kas apzîmç saistîbu ar saknes jçdzienu.	0	F	J	F			
+tçrbstît	Darît	tçrbstuve	Vieta (lietv)	Pielikts sufikss '-uve', kas lietvârdu veidoðanai no darbîbas vârdiem izmantojams ar nozîmi 'vieta, kur notiek darbîba'.	0	F	N	T			
+plakstule	Priekðmets	plakstulains	Ietver nosaukto	pievienota sufiksa -ains ìenitîva celmam 'plakstul-'	0	F	N	T			
+plakstule	Priekðmets	plakstulots	Ietver nosaukto	pievienota sufiksa -ots ìenitîva celmam 'plakstul-'	0	F	N	T			
+glimþçt	Bût procesâ	glimþçðana	Process	pievienots sufikss -ðana darbîbas vârda saknei	0	F	N	T			
+glimþçt	Bût procesâ	glimþçðanâs	Process	pievienots sufikss -ðanâs darbîbas vârda saknei	0	F	N	D			
+skurpelîgs	Bût stâvoklî	skurpelîgums	Stâvoklis	Pievieno sufiksu '-ums' îpaðîbas vârdam, lai iegûtu lietvârdu ar nozîmi 'stâvoklis'.	0	F	N	T			
+zvilgsme	Abstrakts nojçgums	zvilgsmisks	Saistîts ar nosaukto	"vârda gala ""-me"" aizstâðana ar atvasinâjuma formantu ""-isks""."	0	F	N	T			

@@ -1,0 +1,98 @@
+Semantiskâ kategorija 1	Semantiskâ kategorija 2	Regulârâ izteiksme	Manuâla pârbaude
+Priekğmets	Ietver nosaukto	s#^(.*?)a$#\1ains#	F
+Darît	Rezultâts	s#^(.*?)ât$#\1âjums#	T
+Darît	Darbîba	s#^(.*?)ât$#\1âğana#	T
+Darît	Cits	s#^(.*?)ât$#\1âğana#	D
+Darît	Instruments	s#^(.*?)ât$#\1s#	F
+Darît	Rezultâts	s#^(.*?)dât$#\1sma#	F
+Darît	Instruments	s#^(.*?)dçt$#\1deklis#	F
+Darît	Instruments	s#^(.*?)dzçt$#\1dzoklis#	F
+Darît	Instruments	s#^(.*?)çt$#\1eklis#	T
+Darît	Cits	s#^(.*?)çt$#\1çklis#	T
+Darît	Darbîba	s#^(.*?)çt$#\1çğana#	T
+Bût procesâ	Process	s#^(.*?)çt$#\1çğanâs#	T
+Darît	Vieta (lietvârds)	s#^(.*?)gt$#\1gtuve#	F
+Darît	Instruments	s#^(.*?)iegt$#\1iedzamais#	F
+Darît	Darîtâjs (dzîvs)	s#^(.*?)iegt$#\1iedzçjs#	F
+Darît	Darîtâjs (dzîvs)	s#^(.*?)iet$#\1çjçjs#	T
+Bût procesâ	Process	s#^(.*?)iet$#\1çjums#	F
+Abstrakts nojçgums	Saistîts ar nosaukto	s#^(.*?)ija$#\1isks#	F
+Abstrakts nojçgums	Saistîts ar nosaukto	s#^(.*?)ika$#\1isks#	F
+Darît	Rezultâts	s#^(.*?)inât$#\1me#	F
+Abstrakts nojçgums	Saistîts ar nosaukto	s#^(.*?)îba$#\1isks#	F
+Darît	Cits	s#^(.*?)îst$#\1îdeklis#	F
+Darît	Rezultâts	s#^(.*?)ît$#\1îjums#	T
+Darît	Darbîba	s#^(.*?)ît$#\1ît#	F
+Darît	Vieta (lietvârds)	s#^(.*?)ît$#\1îtuve#	T
+Bût procesâ	Process	s#^(.*?)kt$#\1kğana#	T
+Priekğmets	Ietver nosaukto	s#^(.*?)ne$#\1òots#	F
+Darît	Rezultâts	s#^(.*?)ot$#\1ojums#	T
+Darît	Instruments	s#^(.*?)ot$#\1otâjs#	T
+Darît	Darîtâjs (dzîvs)	s#^(.*?)ot$#\1s#	F
+Darît	Darbîba	s#^(.*?)rgât$#\1rdzîba#	F
+Darît	Cits	s#^(.*?)rgât$#\1rdzîba#	D
+Priekğmets	Ietver nosaukto	s#^(.*?)s$#\1ots#	T
+Darît	Vieta (lietvârds)	s#^(.*?)st$#\1dnîca#	F
+Darît	Cits	s#^(.*?)st$#\1zums#	F
+Bût procesâ	Process	s#^(.*?)t$#\1ğana#	T
+Darît	Darîtâjs (dzîvs)	s#^(.*?)t$#\1tâjs#	T
+Darît	Darîtâjs (dzîvs)	s#^(.*?)tçt$#\1ts#	F
+Bût stâvoklî	Stâvoklis	s#^(.*?)ties$#\1sme#	F
+Bût procesâ	Process	s#^(.*?)ût$#\1ûğana#	F
+Darît	Vieta (lietvârds)	s#^(.*?)vot$#\1voklis#	F
+Priekğmets	Ietver nosaukto	s#^(.*?)zne$#\1şòots#	T
+Darît	Vieta (lietvârds)	s#^(.*?)şot$#\1şotava#	F
+Bût stâvoklî	Stâvoklis	s#^(.*?d)çt$#\1i#	F
+Bût stâvoklî	Stâvoklis	s#^(.*?dz)çt$#\1çğana#	F
+Bût stâvoklî	Stâvoklis	s#^(.*?g)t$#\1ğana#	F
+Bût stâvoklî	Stâvoklis	s#^(.*?l)çt$#\1e#	F
+			
+Unikâlie likumi	44		
+Derîgo likumu skaits	16		
+Nederîgo likumu skaits	28		
+Precizitâte	0,364		
+DarÄ«t	DarbÄ«ba	s#^(.*?)Ä“t$#\1Ä“Å¡ana#
+DarÄ«t	DarbÄ«ba	s#^(.*?)inÄt$#\1inÄÅ¡ana#
+DarÄ«t	DarbÄ«ba	s#^(.*?)Ät$#\1ÄÅ¡ana#
+DarÄ«t	DarbÄ«ba	s#^(.*?)Ä«t$#\1Ä«Å¡ana#
+DarÄ«t	RezultÄts	s#^(.*?)dÄt$#\1sma#
+DarÄ«t	RezultÄts	s#^(.*?)inÄt$#\1me#
+DarÄ«t	RezultÄts	s#^(.*?)t$#\1jums#
+DarÄ«t	DarÄ«tÄjs (dzÄ«vs)	s#^(.*?)gt$#\1dzÄ“js#
+DarÄ«t	DarÄ«tÄjs (dzÄ«vs)	s#^(.*?)iet$#\1Ä“jÄ“js#
+DarÄ«t	DarÄ«tÄjs (dzÄ«vs)	s#^(.*?)Ät$#\1ÄtÄjs#
+DarÄ«t	DarÄ«tÄjs (dzÄ«vs)	s#^(.*?)Ä“t$#\1s#
+DarÄ«t	DarÄ«tÄjs (dzÄ«vs)	s#^(.*?)ot$#\1s#
+DarÄ«t	DarÄ«tÄjs (dzÄ«vs)	s#^(.*?)Ä«t$#\1Ä«tÄjs#
+DarÄ«t	DarÄ«tÄjs (dzÄ«vs)	s#^(.*?)t$#\1tÄjs#
+PriekÅ¡mets	Ietver nosaukto	s#^(.*?)zne$#\1Å¾Å†ots#
+PriekÅ¡mets	Ietver nosaukto	s#^(.*?)ne$#\1Å†ots#
+PriekÅ¡mets	Ietver nosaukto	s#^(.*?)s$#\1ots#
+PriekÅ¡mets	Ietver nosaukto	s#^(.*?)a$#\1ains#
+BÅ«t procesÄ	Process	s#^(.*?)iet$#\1Ä“jums#
+BÅ«t procesÄ	Process	s#^(.*?)Ä“t$#\1Ä“Å¡anÄs#
+BÅ«t procesÄ	Process	s#^(.*?)t$#\1Å¡ana#
+BÅ«t stÄvoklÄ«	StÄvoklis	s#^(.*?)ties$#\1sme#
+BÅ«t stÄvoklÄ«	StÄvoklis	s#^(.*?)lÄ“t$#\1le#
+BÅ«t stÄvoklÄ«	StÄvoklis	s#^(.*?)gt$#\1gÅ¡ana#
+BÅ«t stÄvoklÄ«	StÄvoklis	s#^(.*?)zÄ“t$#\1zÄ“Å¡ana#
+BÅ«t stÄvoklÄ«	StÄvoklis	s#^(.*?)Ä“t$#\1i#
+BÅ«t stÄvoklÄ«	StÄvoklis	s#^(.*?)t$#\1Å¡ana#
+Abstrakts nojÄ“gums	SaistÄ«ts ar nosaukto	s#^(.*?)ika$#\1isks#
+Abstrakts nojÄ“gums	SaistÄ«ts ar nosaukto	s#^(.*?)ija$#\1isks#
+Abstrakts nojÄ“gums	SaistÄ«ts ar nosaukto	s#^(.*?)Ä«ba$#\1isks#
+DarÄ«t	Vieta (lietvÄrds)	s#^(.*?v)ot$#\1oklis#
+DarÄ«t	Vieta (lietvÄrds)	s#^(.*?)ot$#\1otava#
+DarÄ«t	Vieta (lietvÄrds)	s#^(.*?g)t$#\1tuve#
+DarÄ«t	Vieta (lietvÄrds)	s#^(.*?)Ä«t$#\1tuve#
+DarÄ«t	Vieta (lietvÄrds)	s#^(.*?)st$#\1dnÄ«ca#
+DarÄ«t	Cits	s#^(.*?)gÄt$#\1dzÄ«ba#
+DarÄ«t	Cits	s#^(.*?)Ä«st$#\1Ä«deklis#
+DarÄ«t	Cits	s#^(.*?)Ä“t$#\1Ä“klis#
+DarÄ«t	Cits	s#^(.*?)st$#\1zums#
+DarÄ«t	Cits	s#^(.*?)Ät$#\1ÄÅ¡ana#
+DarÄ«t	Instruments	s#^(.*?)ot$#\1otÄjs#
+DarÄ«t	Instruments	s#^(.*?)iegt$#\1iedzamais#
+DarÄ«t	Instruments	s#^(.*?z)Ä“t$#\1oklis#
+DarÄ«t	Instruments	s#^(.*?)Ä“t$#\1eklis#
+DarÄ«t	Instruments	s#^(.*?)Ät$#\1s#

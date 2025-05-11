@@ -1,0 +1,101 @@
+Lemma	Semantiskâ_kat_1	Kandidâts	Semantiskâ_kat_2	Bieþums	Tips	Grupa	Manuâla pârbaude		Kopâ		TOP1	TOP2	TOP3	TOP4	TOP5
+veikt	Darît	veikums	Rezultâts	8126	T	V	T		Derîgi derivâti	15					
+veikt	Darît	veicums	Rezultâts	2	M	V			Nederîgi derivâti	5					
+veikt	Darît	veiks	Rezultâts	6865	T	V			Precizitâte	0,750	0,533333333	0,266666667	0,066666667	0,133333333	0
+veikt	Darît	veikba	Rezultâts	0	F	V									
+veikt	Darît	veiciekums	Rezultâts	0	F	V			V						
+zvaigzne	Priekðmets	zvaigþòots	Ietver nosaukto	1110	T	V	T		Derîgi derivâti	5	4	0	0	1	0
+zvaigzne	Priekðmets	zvaigþòains	Ietver nosaukto	7	T	V			Nederîgi derivâti	2					
+zvaigzne	Priekðmets	zvaigznins	Ietver nosaukto	0	F	V			Precizitâte	0,714	0,8	0	0	0,2	0
+zvaigzne	Priekðmets	zvaigznots	Ietver nosaukto	1	M	V									
+zvaigzne	Priekðmets	zvaigznains	Ietver nosaukto	0	F	V			I						
+pûst	Bût procesâ	pûðana	Process	974	T	V	T		Derîgi derivâti	1	1	0	0	0	0
+pûst	Bût procesâ	pûðanâs	Process	212	T	V			Nederîgi derivâti	2					
+pûst	Bût procesâ	pûsta	Process	38	T	V			Precizitâte	0,333333333	1	0	0	0	0
+pûst	Bût procesâ	pûðanâ	Process	23	T	V									
+pûst	Bût procesâ	pûðanâm	Process	1	M	V			J						
+riebt	Bût stâvoklî	riebðana	Stâvoklis	8	T	V	T		Derîgi derivâti	5	3	2	0	0	0
+riebt	Bût stâvoklî	rieba	Stâvoklis	34	T	V			Nederîgi derivâti	0					
+riebt	Bût stâvoklî	riebta	Stâvoklis	0	F	V			Precizitâte	1	0,6	0,4	0	0	0
+riebt	Bût stâvoklî	riebdana	Stâvoklis	0	F	V									
+riebt	Bût stâvoklî	riebðanas	Stâvoklis	2	M	V			N						
+medicîna	Abstrakts nojçgums	medicîns	Saistîts ar nosaukto	1	M	V			Derîgi derivâti	4	0	2	1	1	0
+medicîna	Abstrakts nojçgums	medicînis	Saistîts ar nosaukto	0	F	V			Nederîgi derivâti	1					
+medicîna	Abstrakts nojçgums	medicînsks	Saistîts ar nosaukto	2	M	V			Precizitâte	0,8	0	0,5	0,25	0,25	0
+medicîna	Abstrakts nojçgums	medicînisks	Saistîts ar nosaukto	16946	T	V	T								
+medicîna	Abstrakts nojçgums	medicînçjs	Saistîts ar nosaukto	0	F	V									
+skriet	Darît	skriençjs	Darîtâjs (dzîvs)	0	F	V	F								
+skriet	Darît	skriençtâjs	Darîtâjs (dzîvs)	0	F	V									
+skriet	Darît	skrienis	Darîtâjs (dzîvs)	9	T	V									
+skriet	Darît	skrietâjs	Darîtâjs (dzîvs)	0	F	V									
+skriet	Darît	skriecçjs	Darîtâjs (dzîvs)	0	F	V									
+ideja	Abstrakts nojçgums	ides	Saistîts ar nosaukto	28	T	V	F								
+ideja	Abstrakts nojçgums	idesks	Saistîts ar nosaukto	0	F	V									
+ideja	Abstrakts nojçgums	idejs	Saistîts ar nosaukto	65	T	V									
+ideja	Abstrakts nojçgums	idejis	Saistîts ar nosaukto	2	M	V									
+ideja	Abstrakts nojçgums	idejçs	Saistîts ar nosaukto	0	F	V									
+nest	Darît	nesîðana	Darbîba	0	F	I	F								
+nest	Darît	nesta	Darbîba	196	T	I									
+nest	Darît	nesðana	Darbîba	1	M	I									
+nest	Darît	nestu	Darbîba	2151	T	I									
+nest	Darît	nests	Darbîba	345	T	I									
+iet	Bût procesâ	ieðana	Process	5770	T	I	T								
+iet	Bût procesâ	ieta	Process	87	T	I									
+iet	Bût procesâ	ieðanâ	Process	64	T	I									
+iet	Bût procesâ	ieðanâs	Process	5	M	I									
+iet	Bût procesâ	iets	Process	651	T	I									
+ir	Bût stâvoklî	ires	Stâvoklis	88	T	I	F								
+ir	Bût stâvoklî	iru	Stâvoklis	135	T	I									
+ir	Bût stâvoklî	irâ	Stâvoklis	22	T	I									
+ir	Bût stâvoklî	ira	Stâvoklis	876	T	I									
+ir	Bût stâvoklî	iri	Stâvoklis	78	T	I									
+atklusinât	Darît	atklusinâtâjs	Instruments	0	F	J	T								
+atklusinât	Darît	atklusinâjs	Instruments	0	F	J									
+atklusinât	Darît	atklusinâts	Instruments	0	F	J									
+atklusinât	Darît	atklusinâtâjjs	Instruments	0	F	J									
+atklusinât	Darît	atklusinâtâjis	Instruments	0	F	J									
+sejauts	Priekðmets	sejautains	Ietver nosaukto	0	F	J									
+sejauts	Priekðmets	sejautots	Ietver nosaukto	0	F	J	T								
+sejauts	Priekðmets	sejauto	Ietver nosaukto	0	F	J									
+sejauts	Priekðmets	sejautos	Ietver nosaukto	0	F	J									
+sejauts	Priekðmets	sejautons	Ietver nosaukto	0	F	J									
+telpiskot	Bût procesâ	telpiskoðana	Process	1	M	J	T								
+telpiskot	Bût procesâ	telpiskota	Process	2	M	J									
+telpiskot	Bût procesâ	telpiskoja	Process	0	F	J									
+telpiskot	Bût procesâ	telpiskoðanâs	Process	0	F	J									
+telpiskot	Bût procesâ	telpiskoðanâ	Process	0	F	J									
+sliecinât	Bût stâvoklî	sliecinâðana	Stâvoklis	0	F	J	T								
+sliecinât	Bût stâvoklî	sliecina	Stâvoklis	0	F	J									
+sliecinât	Bût stâvoklî	sliecinâja	Stâvoklis	0	F	J									
+sliecinât	Bût stâvoklî	sliecinâta	Stâvoklis	0	F	J									
+sliecinât	Bût stâvoklî	sliecinâðanâ	Stâvoklis	0	F	J									
+aizstâjeklis	Abstrakts nojçgums	aizstâsks	Saistîts ar nosaukto	0	F	J									
+aizstâjeklis	Abstrakts nojçgums	aizstâjekïiem	Saistîts ar nosaukto	0	F	J	T								
+aizstâjeklis	Abstrakts nojçgums	aizstâjekïis	Saistîts ar nosaukto	0	F	J									
+aizstâjeklis	Abstrakts nojçgums	aizstâjeklisks	Saistîts ar nosaukto	0	F	J									
+aizstâjeklis	Abstrakts nojçgums	aizstâjekïi	Saistîts ar nosaukto	0	F	J									
+tçrbstît	Darît	tçrbstîta	Vieta (lietv)	0	F	N									
+tçrbstît	Darît	tçrbstîtava	Vieta (lietv)	0	F	N	T								
+tçrbstît	Darît	tçrbstîtavava	Vieta (lietv)	0	F	N									
+tçrbstît	Darît	tçrbstîts	Vieta (lietv)	0	F	N									
+tçrbstît	Darît	tçrbstîtie	Vieta (lietv)	0	F	N									
+plakstule	Priekðmets	plakstulins	Ietver nosaukto	0	F	N									
+plakstule	Priekðmets	plakstuleins	Ietver nosaukto	0	F	N									
+plakstule	Priekðmets	plakstuïots	Ietver nosaukto	0	F	N	T								
+plakstule	Priekðmets	plakstulots	Ietver nosaukto	0	F	N									
+plakstule	Priekðmets	plakstulç	Ietver nosaukto	0	F	N									
+glimþçt	Bût procesâ	glimþam	Process	0	F	N									
+glimþçt	Bût procesâ	glimþama	Process	0	F	N									
+glimþçt	Bût procesâ	glimþams	Process	0	F	N									
+glimþçt	Bût procesâ	glimþçðana	Process	0	F	N	T								
+glimþçt	Bût procesâ	glimþana	Process	0	F	N									
+skurpelîgs	Bût stâvoklî	skurpelîga	Stâvoklis	0	F	N	F								
+skurpelîgs	Bût stâvoklî	skurpelîgâ	Stâvoklis	0	F	N									
+skurpelîgs	Bût stâvoklî	skurpelîgu	Stâvoklis	0	F	N									
+skurpelîgs	Bût stâvoklî	skurpelîgâka	Stâvoklis	0	F	N									
+skurpelîgs	Bût stâvoklî	skurpelîgas	Stâvoklis	0	F	N									
+zvilgsme	Abstrakts nojçgums	zvilgsmisks	Saistîts ar nosaukto	0	F	N	T								
+zvilgsme	Abstrakts nojçgums	zvilgsmes	Saistîts ar nosaukto	0	F	N									
+zvilgsme	Abstrakts nojçgums	zvilgsmis	Saistîts ar nosaukto	0	F	N									
+zvilgsme	Abstrakts nojçgums	zvilgsmiðís	Saistîts ar nosaukto	0	F	N									
+zvilgsme	Abstrakts nojçgums	zvilgsmei	Saistîts ar nosaukto	0	F	N									

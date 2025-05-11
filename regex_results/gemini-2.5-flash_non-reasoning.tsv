@@ -1,0 +1,42 @@
+Lemma	Semantiskâ_kat_1	Reg. izteiksme	Kandidâts	Semantiskâ_kat_2	Bieþums	Tips	Grupa	Manuâla pârbaude		Kopâ	
+veikt	Darît	s#^(.*?)t$#\1zums#	veikzums	Cits	0	F	V	F		Derîgi derivâti	14
+skriet	Darît	s#^(.*?)t$#\1zums#	skriezums	Cits	0	F	V	F		Nederîgi derivâti	26
+riebt	Bût stâvoklî	s#^(.*?)t$#\1ðana#	riebðana	Stâvoklis	8	T	V	T		Precizitâte	0,350
+veikt	Darît	s#^(.*?)t$#\1ðana#	veikðana	Cits	35471	T	V	T			
+skriet	Darît	s#^(.*?)t$#\1ðana#	skrieðana	Cits	14569	T	V	T		V	
+veikt	Darît	s#^(.*?)t$#\1klis#	veikklis	Cits	0	F	V	F		Derîgi derivâti	4
+skriet	Darît	s#^(.*?)t$#\1klis#	skrieklis	Cits	0	F	V	F		Nederîgi derivâti	9
+veikt	Darît	s#^(.*?)t$#\1klis#	veikklis	Instruments	0	F	V	F		Precizitâte	0,308
+skriet	Darît	s#^(.*?)t$#\1klis#	skrieklis	Instruments	0	F	V	F			
+riebt	Bût stâvoklî	s#^(.*?)t$#\1e#	riebe	Stâvoklis	1	M	V	F		N	
+riebt	Bût stâvoklî	s#^(.*?)t$#\1di#	riebdi	Stâvoklis	0	F	V	F		Derîgi derivâti	4
+skriet	Darît	s#^(.*?)iet$#\1çjçjs#	skrçjçjs	Darîtâjs (dzîvs)	7774	T	V	T		Nederîgi derivâti	3
+pûst	Bût procesâ	s#^(.*)t$#\1ðana#	pûsðana	Process	2	M	V	F		Precizitâte	0,571
+tçrbstît	Darît	s#^(.*?)t$#\1zums#	tçrbstîzums	Cits	0	F	N	F			
+tçrbstît	Darît	s#^(.*?)t$#\1ðana#	tçrbstîðana	Cits	0	F	N	T		J	
+tçrbstît	Darît	s#^(.*?)t$#\1klis#	tçrbstîklis	Cits	0	F	N	T		Derîgi derivâti	5
+tçrbstît	Darît	s#^(.*?)t$#\1klis#	tçrbstîklis	Instruments	0	F	N	F		Nederîgi derivâti	8
+tçrbstît	Darît	s#^(.*?)ît$#\1ît#	tçrbstît	Darbîba	0	F	N	F		Precizitâte	0,385
+glimþçt	Bût procesâ	s#^(.*)t$#\1ðana#	glimþçðana	Process	0	F	N	D			
+tçrbstît	Darît	s#^(.*)ît$#\1îtuve#	tçrbstîtuve	Vieta (lietvârds)	0	F	N	T		I	
+glimþçt	Bût procesâ	s#^(.*)çt$#\1çðana#	glimþçðana	Process	0	F	N	T		Derîgi derivâti	1
+atklusinât	Darît	s#^(.*?)t$#\1zums#	atklusinâzums	Cits	0	F	J	F		Nederîgi derivâti	6
+sliecinât	Bût stâvoklî	s#^(.*?)t$#\1ðana#	sliecinâðana	Stâvoklis	0	F	J	T		Precizitâte	0,143
+atklusinât	Darît	s#^(.*?)t$#\1ðana#	atklusinâðana	Cits	0	F	J	T			
+atklusinât	Darît	s#^(.*?)t$#\1klis#	atklusinâklis	Cits	0	F	J	F			
+atklusinât	Darît	s#^(.*?)t$#\1klis#	atklusinâklis	Instruments	0	F	J	F			
+sliecinât	Bût stâvoklî	s#^(.*?)t$#\1e#	sliecinâe	Stâvoklis	0	F	J	F			
+sliecinât	Bût stâvoklî	s#^(.*?)t$#\1di#	sliecinâdi	Stâvoklis	0	F	J	F			
+atklusinât	Darît	s#^(.*?)ât$#\1s#	atklusins	Instruments	0	F	J	F			
+atklusinât	Darît	s#^(.*?)ât$#\1îba#	atklusinîba	Cits	0	F	J	F			
+atklusinât	Darît	s#^(.*?)ât$#\1âtâjs#	atklusinâtâjs	Darîtâjs (dzîvs)	0	F	J	T			
+atklusinât	Darît	s#^(.*?)ât$#\1ardzîba#	atklusinardzîba	Darbîba	0	F	J	F			
+telpiskot	Bût procesâ	s#^(.*)t$#\1ðana#	telpiskoðana	Process	1	M	J	T			
+sejauts	Priekðmets	s#^(.*)s$#\1ots#	sejautots	Ietver nosaukto	0	F	J	T			
+nest	Darît	s#^(.*?)t$#\1zums#	neszums	Cits	0	F	I	F			
+nest	Darît	s#^(.*?)t$#\1ðana#	nesðana	Cits	1	M	I	F			
+nest	Darît	s#^(.*?)t$#\1klis#	nesklis	Cits	0	F	I	F			
+nest	Darît	s#^(.*?)t$#\1klis#	nesklis	Instruments	0	F	I	F			
+nest	Darît	s#^(.*?)st$#\1deklis#	nedeklis	Cits	0	F	I	F			
+iet	Bût procesâ	s#^(.*)t$#\1ðana#	ieðana	Process	5770	T	I	T			
+iet	Bût procesâ	s#^(.*)iet$#\1çjums#	çjums	Process	6	T	I	F			

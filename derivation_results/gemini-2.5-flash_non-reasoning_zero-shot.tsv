@@ -1,0 +1,32 @@
+Lemma	Semantiskâ_kat_1	Kandidâts	Semantiskâ_kat_2	Paskaidrojums	Bieþums	Tips	Grupa	Manuâla pârbaude		Kopâ	
+veikt	Darît	veikums	Rezultâts	lietvârds, veidots no darbîbas vârda ‘veikt’ ar piedçkli ‘-ums’	8126	T	V	T		Derîgi derivâti	19
+veikt	Darît	izveidojums	Rezultâts	lietvârds, veidots no darbîbas vârda ‘izveidot’ ar piedçkli ‘-ums’	88	T	V	T		Nederîgi derivâti	10
+veikt	Darît	paveiktais	Rezultâts	îpaðîbas vârds, veidots no darbîbas vârda ‘paveikt’ ar piedçkli ‘-tais’	1640	T	V	T		Precizitâte	0,655
+zvaigzne	Priekðmets	zvaigznâjs	Ietver nosaukto	Pievieno sufiksu '-âjs'.	2804	T	V	F			
+pûst	Bût procesâ	pûtums	Process	Veidojot lietvârdu no darbîbas vârda, pievieno galotni -ums un izòem daïu no darbîbas vârda galotnes.	0	F	V	F		V	
+riebt	Bût stâvoklî	riebums	Stâvoklis	Veidojot lietvârdu no darbîbas vârda, izmantojot piedçkli '-ums'.	1998	T	V	T		Derîgi derivâti	7
+medicîna	Abstrakts nojçgums	medicînisks	Saistîts ar nosaukto	Pievieno sufiksu -isks.	16946	T	V	T		Nederîgi derivâti	2
+medicîna	Abstrakts nojçgums	medicîniski	Saistîts ar nosaukto	Pievieno sufiksu -iski.	816	T	V	D		Precizitâte	0,778
+skriet	Darît	skrçjçjs	Darîtâjs (dzîvs)	Atvasinâjums veidots no darbîbas vârda celma, pievienojot sufiksu -çj- un vîrieðu kârtas nominatîva vienkârðâs deklinâcijas galotni -s.	7774	T	V	T			
+ideja	Abstrakts nojçgums	idejisks	Saistîts ar nosaukto	Vârds 'ideja' ir jâdâvina ar piedçkli '-isks', lai veidotu îpaðîbas vârdu.	1323	T	V	T		I	
+nest	Darît	Neðanâs	Darbîba	Refleksîvâ piedçkïa pievienoðana	12	T	I	T		Derîgi derivâti	6
+nest	Darît	Nçsâðana	Darbîba	Sufiksa '-âðana' pievienoðana	2158	T	I	T		Nederîgi derivâti	0
+iet	Bût procesâ	ieðana	Process	"No verba saknes ""ie-"" un sufiksa ""-ðana"" tiek veidots lietvârds, kas apzîmç procesu"	5770	T	I	T		Precizitâte	1,000
+ir	Bût stâvoklî	bûtîba	Stâvoklis	No verbâla saknes 'bût' veidojams substantiivs ar sufiksu -îba.	72659	T	I	T			
+ir	Bût stâvoklî	esamîba	Stâvoklis	No verbâla saknes 'es-' veidojams substantiivs ar sufiksu -amîba.	11371	T	I	T		J	
+ir	Bût stâvoklî	esamîba	Stâvoklis	No verba 'bût' (vai tâ saknes 'es-') veidojams substantiivs ar sufiksu -amîba.	11371	T	I	D		Derîgi derivâti	4
+ir	Bût stâvoklî	bût	Stâvoklis	Verbâls infinitîvs, kas apzîmç procesu vai stâvokli.	16042257	T	I	T		Nederîgi derivâti	3
+atklusinât	Darît	atklusinâtâjs	Instruments	"Piedçklis ""-âtâjs"" norâda uz rîku, kas veic darbîbu."	0	F	J	T		Precizitâte	0,571
+sejauts	Priekðmets	sejautnieks	Ietver nosaukto	Piedçkïa pievienoðana vârda celmam	0	F	J	F			
+sejauts	Priekðmets	sejautniecîba	Ietver nosaukto	Piedçkïa pievienoðana vârda celmam	0	F	J	F		N	
+telpiskot	Bût procesâ	Telpiskums	Process	No darbîbas vârda ar piedçkli '-ums' veido lietvârdu, kas norâda uz telpiskuma stâvokli.	169	T	J	F		Derîgi derivâti	2
+telpiskot	Bût procesâ	Telpiskoðana	Process	No darbîbas vârda ar piedçkli '-ðana' veido lietvârdu, kas norâda uz telpiskoðanas procesu.	1	M	J	T		Nederîgi derivâti	5
+sliecinât	Bût stâvoklî	sliecinâðanâs	Stâvoklis	Atvasinâjums veidots pievienojot piedçkli '-ðanâs' un pârveidojot verbu.	0	F	J	T		Precizitâte	0,286
+aizstâjeklis	Abstrakts nojçgums	Aizstâjeklisks	Saistîts ar nosaukto	"Pielikums -isks pieòemoties pie pamata ""aizstâjekl-"""	0	F	J	T			
+tçrbstît	Darît	tçrbstîtava	Vieta (lietv)	Piedçklis -ava pievienoðana darbîbas vârdam ar semantisko kategoriju 'Darît' atvasina lietvârdu ar semantisko kategoriju 'Vieta (lietv)'.	0	F	N	T			
+tçrbstît	Darît	tçrbstoòa	Vieta (lietv)	Sufiksa -oòa pievienoðana darbîbas vârdam ar semantisko kategoriju 'Darît' var atvasinât lietvârdu ar semantisko kategoriju 'Vieta (lietv)'.	0	F	N	F			
+plakstule	Priekðmets	plakstlains	Ietver nosaukto	Pievienota piedçklis -ain-	0	F	N	F			
+plakstule	Priekðmets	plakstisks	Ietver nosaukto	Pievienota piedçklis -isk-	0	F	N	F			
+glimþçt	Bût procesâ	glimþoðana	Process	No darbîbas vârda celma atvasinâts ar piedçkli -ðana.	0	F	N	T			
+skurpelîgs	Bût stâvoklî	skrupulozitâte	Stâvoklis	No îpaðîbas vârda 'skurpelîgs' ar sufiksa '-itâte' palîdzîbu veidojam abstraktu lietvârdu.	7	T	N	F			
+zvilgsme	Abstrakts nojçgums	zvilgsnît	Saistîts ar nosaukto	Mîïvârdiòa veidoðana, pievienojot deminutîvo sufiksu '-ît'.	0	F	N	F			

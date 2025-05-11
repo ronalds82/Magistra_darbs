@@ -1,0 +1,61 @@
+Lemma	Semantiskâ_kat_1	Kandidâts	Semantiskâ_kat_2	Paskaidrojums	Bieþums	Tips	Grupa	Manuâla pârbaude		Kopâ	
+veikt	Darît	veikums	Rezultâts	piedçkïa -um- un galotnes -s pievienoðana lemmai 'veikt'	8126	T	V	T		Derîgi derivâti	30
+veikt	Darît	veice	Rezultâts	galotnes -e pievienoðana saknei 'veic-'	24	T	V	T		Nederîgi derivâti	26
+veikt	Darît	veiktais	Rezultâts	cieðamâs kârtas pagâtnes divdabja izmantoðana substantîva lomâ	2062	T	V	T		Precizitâte	0,536
+veikt	Darît	izveikums	Rezultâts	priedçkïa iz- un piedçkïa -um- pievienoðana lemmai 'veikt'	0	F	V	T			
+veikt	Darît	paveikums	Rezultâts	priedçkïa pa- un piedçkïa -um- pievienoðana lemmai 'veikt'	7	T	V	T		V	
+zvaigzne	Priekðmets	zvaigznâjs	Ietver nosaukto	"Atvasinâjums izveidots no celma ""zvaigzn-"" ar piedçkli ""-âjs"", kas norâda uz vietu, kur atrodas nosauktais objekts"	2804	T	V	F		Derîgi derivâti	11
+zvaigzne	Priekðmets	zvaigznîba	Ietver nosaukto	"Atvasinâjums izveidots ar piedçkli ""-îba"", kas veido abstraktu kopumu vai sistçmu"	0	F	V	F		Nederîgi derivâti	8
+zvaigzne	Priekðmets	zvaigznojums	Ietver nosaukto	"Atvasinâjums izveidots ar piedçkli ""-ojums"", kas apzîmç rezultâtu vai kopumu"	0	F	V	F		Precizitâte	0,579
+pûst	Bût procesâ	pûðana	Process	Verbam 'pûst' pievieno piedçkli '-ðan-' un galotni '-a', iegûstot lietvârdu, kas apzîmç procesu	974	T	V	T			
+pûst	Bût procesâ	pûsma	Process	Verbam 'pûst' pievieno piedçkli '-sm-' un galotni '-a', iegûstot lietvârdu	235	T	V	F		I	
+pûst	Bût procesâ	pûtiens	Process	Verbam 'pûst' pievieno piedçkli '-tien-' un galotni '-s', iegûstot lietvârdu, kas apzîmç vienreizçju darbîbu	450	T	V	F		Derîgi derivâti	6
+riebt	Bût stâvoklî	riebums	Stâvoklis	Atvasinâjums izveidots no darbîbas vârda 'riebt' saknes 'rieb-', pievienojot piedçkli '-um' un galotni '-s', lai iegûtu lietvârdu ar stâvokïa nozîmi.	1998	T	V	T		Nederîgi derivâti	6
+riebt	Bût stâvoklî	riebîgums	Stâvoklis	Atvasinâjums izveidots no darbîbas vârda 'riebt' saknes, pievienojot piedçkli '-îg' (kas veido îpaðîbas vârdu 'riebîgs') un tâlâk piedçkli '-um' ar galotni '-s', lai iegûtu lietvârdu ar stâvokïa nozîmi.	33	T	V	T		Precizitâte	0,500
+riebt	Bût stâvoklî	riebîba	Stâvoklis	Atvasinâjums izveidots no darbîbas vârda 'riebt' saknes 'rieb-', pievienojot piedçkli '-îb' un galotni '-a', lai iegûtu lietvârdu ar stâvokïa nozîmi.	0	F	V	F			
+medicîna	Abstrakts nojçgums	medicînisks	Saistîts ar nosaukto	"piedçkïa -isk- pievienoðana lemmai ""medicîna"""	16946	T	V	T		J	
+medicîna	Abstrakts nojçgums	medicinâls	Saistîts ar nosaukto	"piedçkïa -âl- pievienoðana lemmai ""medicîna"""	0	F	V	F		Derîgi derivâti	5
+skriet	Darît	skrçjçjs	Darîtâjs (dzîvs)	Atvasinâjums veidots no darbîbas vârda 'skriet' pagâtnes celma 'skrçj-' ar darîtâja sufiksu '-çjs'.	7774	T	V	T		Nederîgi derivâti	8
+skriet	Darît	skrçjçja	Darîtâjs (dzîvs)	Atvasinâjums veidots no darbîbas vârda 'skriet' pagâtnes celma 'skrçj-' ar darîtâja sufiksu '-çja'.	874	T	V	D		Precizitâte	0,385
+ideja	Abstrakts nojçgums	idejisks	Saistîts ar nosaukto	Atvasinâjums veidots, pievienojot lemmai 'ideja' piedçkli '-isks', kas veido îpaðîbas vârdu ar nozîmi 'saistîts ar ideju'.	1323	T	V	T			
+ideja	Abstrakts nojçgums	ideâls	Saistîts ar nosaukto	Atvasinâjums veidots, aizstâjot lemmas 'ideja' galotni '-a' ar piedçkli '-âls', kas veido îpaðîbas vârdu.	34680	T	V	F		N	
+ideja	Abstrakts nojçgums	idejisks	Saistîts ar nosaukto	Atvasinâjums veidots no lemmas 'ideja', pievienojot piedçkli '-isks'.	1323	T	V	D		Derîgi derivâti	8
+nest	Darît	neðana	Darbîba	"Verba celms ""nes-"" + piedçklis ""-ðan-"" + galotne ""-a""."	1137	T	I	T		Nederîgi derivâti	4
+nest	Darît	nesums	Darbîba	"Verba celms ""nes-"" + piedçklis ""-um-"" + galotne ""-s""."	18	T	I	F		Precizitâte	0,667
+nest	Darît	nesiens	Darbîba	"Verba celms ""nes-"" + piedçklis ""-ien-"" + galotne ""-s""."	22	T	I	F			
+iet	Bût procesâ	ieðana	Process	No darbîbas vârda 'iet' ar sufiksu -ðana tiek izveidots lietvârds, kas apzîmç procesu	5770	T	I	T			
+iet	Bût procesâ	iejums	Process	No darbîbas vârda 'iet' ar sufiksu -ums tiek izveidots lietvârds, kas apzîmç procesu	0	F	I	F			
+iet	Bût procesâ	çjiens	Process	No darbîbas vârda 'iet' ar sufiksu -iens (mainot sakni 'i' uz 'ç') tiek izveidots lietvârds, kas apzîmç procesu	1	M	I	F			
+iet	Bût procesâ	gâjiens	Process	No darbîbas vârda 'iet' ar saknes maiòu (iet ? gâj-) un sufiksu -iens tiek izveidots lietvârds, kas apzîmç procesu	21110	T	I	F			
+iet	Bût procesâ	gâjums	Process	No darbîbas vârda 'iet' ar saknes maiòu (iet ? gâj-) un sufiksu -ums tiek izveidots lietvârds, kas apzîmç procesu	3246	T	I	F			
+ir	Bût stâvoklî	esamîba	Stâvoklis	Lemmai 'ir' nomaina darbîbas vârda sakni uz 'es-' (no 'bût' formas), pievieno piedçkli '-am-' un izskaòu '-îba'.	11371	T	I	T			
+ir	Bût stâvoklî	esîba	Stâvoklis	Lemmai 'ir' nomaina darbîbas vârda sakni uz 'es-' (no 'bût' formas) un pievieno izskaòu '-îba'.	3484	T	I	T			
+ir	Bût stâvoklî	bûðana	Stâvoklis	Lemmai 'ir' nomaina uz sakni 'bû-' (no infinitîva 'bût') un pievieno piedçkli '-ðan-' ar galotni '-a'.	6933	T	I	T			
+ir	Bût stâvoklî	bijums	Stâvoklis	Lemmai 'ir' nomaina darbîbas vârda sakni uz 'bij-' (no pagâtnes celma) un pievieno piedçkli '-um-'.	4	M	I	T			
+atklusinât	Darît	atklusinâTÂJS	Instruments	Pievienojot darbîbas vârda celmam 'atklusin-' piedçkli '-tâjs', kas norâda uz instrumentu vai ierîci, kas veic darbîbu	0	F	J	T			
+atklusinât	Darît	atklusinâTÂJA	Instruments	Pievienojot darbîbas vârda celmam 'atklusin-' piedçkli '-tâja', kas ir sievieðu dzimtes forma instrumentam vai ierîcei	0	F	J	D			
+atklusinât	Darît	atklusinâEKLIS	Instruments	Pievienojot darbîbas vârda celmam 'atklusin-' piedçkli '-eklis', kas apzîmç rîku vai ierîci, ar kuru veic darbîbu	0	F	J	F			
+sejauts	Priekðmets	sejautene	Ietver nosaukto	Pievienots sufikss '-ene', kas apzîmç vietu vai trauku, kurâ kaut ko glabâ	0	F	J	F			
+sejauts	Priekðmets	sejautnica	Ietver nosaukto	Pievienots sufikss '-nica', kas norâda uz vietu, kur kaut kas atrodas vai tiek glabâts	0	F	J	F			
+sejauts	Priekðmets	sejautuve	Ietver nosaukto	Pievienots sufikss '-uve', kas apzîmç vietu, kur kaut kas tiek turçts vai veikts	0	F	J	F			
+telpiskot	Bût procesâ	telpiskoðana	Process	No darbîbas vârda 'telpiskot' atvasina lietvârdu ar izskaòu '-ðana', kas norâda uz procesu.	1	M	J	T			
+telpiskot	Bût procesâ	telpiskojums	Process	No darbîbas vârda 'telpiskot' atvasina lietvârdu ar izskaòu '-ums', kas norâda uz procesa rezultâtu vai paðu procesu.	0	F	J	F			
+telpiskot	Bût procesâ	telpiskoðanâs	Process	No atgriezeniskâ darbîbas vârda 'telpiskosies' atvasina lietvârdu ar izskaòu '-ðanâs', kas norâda uz procesu.	0	F	J	D			
+sliecinât	Bût stâvoklî	sliecinâðana	Stâvoklis	Darbîbas vârdiem 'sliecinât' pievienojot sufiksu '-ðana', tiek izveidots lietvârds, kas apzîmç procesu vai stâvokli.	0	F	J	T			
+sliecinât	Bût stâvoklî	sliecinâjums	Stâvoklis	No darbîbas vârda 'sliecinât' atvasinâts, aizstâjot galotni '-ât' ar sufiksu '-âjums', veidojot lietvârdu, kas apzîmç darbîbas rezultâtu vai stâvokli.	0	F	J	F			
+sliecinât	Bût stâvoklî	sliecinâtîba	Stâvoklis	Darbîbas vârda 'sliecinât' celma 'sliecin-' paplaðinâjums ar sufiksiem '-ât-' un '-îba', veidojot abstraktu stâvokïa lietvârdu.	0	F	J	F			
+aizstâjeklis	Abstrakts nojçgums	aizstâjeklisks	Saistîts ar nosaukto	piedçkïa -isks pievienoðana lietvârdam 'aizstâjeklis', lai izveidotu îpaðîbas vârdu	0	F	J	T			
+aizstâjeklis	Abstrakts nojçgums	aizstâjeklîgs	Saistîts ar nosaukto	piedçkïa -îgs pievienoðana lietvârdam 'aizstâjeklis', lai izveidotu îpaðîbas vârdu	0	F	J	T			
+aizstâjeklis	Abstrakts nojçgums	aizstâjeklains	Saistîts ar nosaukto	piedçkïa -ains pievienoðana lietvârdam 'aizstâjeklis', lai izveidotu îpaðîbas vârdu	0	F	J	F			
+tçrbstît	Darît	tçrbstîtava	Vieta (lietv)	No darbîbas vârda 'tçrbstît' ar celmu 'tçrbstî-' pievieno sufiksu '-tava', kas apzîmç vietu, kur notiek darbîba	0	F	N	T			
+tçrbstît	Darît	tçrbstîtuve	Vieta (lietv)	No darbîbas vârda 'tçrbstît' ar celmu 'tçrbstî-' pievieno sufiksu '-tuve', kas apzîmç vietu, kur notiek darbîba	0	F	N	T			
+plakstule	Priekðmets	plakstulçjs	Ietver nosaukto	pievieno piedçkli -çjs lemmas beigâs, lai apzîmçtu vietu, kur daudz plakstuïu	0	F	N	F			
+plakstule	Priekðmets	plakstulaine	Ietver nosaukto	pievieno piedçkli -aine lemmas beigâs, lai norâdîtu uz vidi vai vielu, kas satur plakstules	0	F	N	T			
+plakstule	Priekðmets	plakstultuve	Ietver nosaukto	pievieno piedçkli -tuve lemmas beigâs (aizstâjot 'e'), lai apzîmçtu vietu, kur atrodas vai glabâ plakstules	0	F	N	F			
+glimþçt	Bût procesâ	glimþçðana	Process	Atvasinâjums veidots no darbîbas vârda 'glimþçt', pievienojot piedçkli '-ðana', kas apzîmç procesu.	0	F	N	T			
+glimþçt	Bût procesâ	glimþçjums	Process	Atvasinâjums veidots no darbîbas vârda 'glimþçt', pievienojot piedçkli '-ums', kas apzîmç procesu vai tâ rezultâtu.	0	F	N	F			
+skurpelîgs	Bût stâvoklî	skurpelîgums	Stâvoklis	Pievienojot îpaðîbas vârdam 'skurpelîgs' galotni '-ums', iegûstam lietvârdu, kas apzîmç stâvokli	0	F	N	T			
+skurpelîgs	Bût stâvoklî	skurpelîba	Stâvoklis	Aizstâjot îpaðîbas vârda 'skurpelîgs' galotni '-îgs' ar lietvârda sufiksu '-îba'	0	F	N	F			
+zvilgsme	Abstrakts nojçgums	zvilgsmîgs	Saistîts ar nosaukto	pievienojot piedçkli -îgs lietvârdam 'zvilgsme', lai izveidotu îpaðîbas vârdu, kas norâda uz saistîbu ar zvilgsmi	0	F	N	T			
+zvilgsme	Abstrakts nojçgums	zvilgsmains	Saistîts ar nosaukto	pievienojot piedçkli -ains lietvârdam 'zvilgsme', lai izveidotu îpaðîbas vârdu, kas norâda, ka kaut kam piemît zvilgsme	0	F	N	T			
+zvilgsme	Abstrakts nojçgums	zvilgsmisks	Saistîts ar nosaukto	pievienojot piedçkli -isks lietvârdam 'zvilgsme', lai izveidotu îpaðîbas vârdu, kas norâda uz saistîbu ar zvilgsmi	0	F	N	T			

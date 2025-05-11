@@ -1,0 +1,24 @@
+Lemma	Semantiskâ_kat_1	Kandidâts	Semantiskâ_kat_2	Paskaidrojums	Bieþums	Tips	Grupa	Manuâla pârbaude		Kopâ	
+veikt	Darît	veikums	Rezultâts	Noòemt infinitîva galotni '-t' un pievienot sufiksu '-ums'.	8126	T	V	T		Derîgi derivâti	19
+zvaigzne	Priekðmets	zvaigþòots	Ietver nosaukto	Noòem galotni -e, pievieno piedçkli -ots, un saknes lîdzskaòis n mîkstinâs par ò.	1110	T	V	T		Nederîgi derivâti	4
+pûst	Bût procesâ	Pûðana	Process	Verbâlâ nomina izveide, pievienojot vârdcelðanas piedçkli -ana darbîbas vârda celmam.	974	T	V	T		Precizitâte	0,826
+riebt	Bût stâvoklî	riebums	Stâvoklis	Noòem galotni '-t' un pievieno piedçkli '-ums'.	1998	T	V	T			
+medicîna	Abstrakts nojçgums	medicînisks	Saistîts ar nosaukto	Galotnes '-a' nomaiòa ar piedçkli '-isks'.	16946	T	V	T		V	
+skriet	Darît	skrçjçjs	Darîtâjs (dzîvs)	Pievieno galotni '-çjs' verba celmam 'skrej-'.	7774	T	V	T		Derîgi derivâti	7
+ideja	Abstrakts nojçgums	idejisks	Saistîts ar nosaukto	Noòemta galotne '-a' un pievienots piedçklis '-isks'.	1323	T	V	T		Nederîgi derivâti	0
+nest	Darît	neðana	Darbîba	No verba 'nest' atmet galotni '-t', iegûst celmu 'nes'. Pievieno sufiksu '-ðana', veicot skaòu maiòu 'sð' uz 'ð' un 'e' pagarinâðanos vai saglabâjot inf. celmu 'ne'. Gala formâ 'neðana'.	1137	T	I	T		Precizitâte	1,000
+iet	Bût procesâ	ieðana	Process	Sufiksa '-ðana' pievienoðana darbîbas vârda celmam 'ie-'.	5770	T	I	T			
+ir	Bût stâvoklî	Bûðana	Stâvoklis	Veidots no darbîbas vârda 'bût' saknes, pievienojot sufiksu '-ðana'.	6933	T	I	T		I	
+atklusinât	Darît	Atklusinâtâjs	Instruments	Noòem darbîbas vârda galotni '-ât' un pievieno sufiksu '-âtâjs', kas apzîmç darîtâju vai instrumentu.	0	F	J	T		Derîgi derivâti	3
+atklusinât	Darît	Atklusinâmais	Instruments	Darbîbas vârdam pievieno sufiksu '-amais', veidojot pasîvo divdabi, ko lieto lietvârda nozîmç, apzîmçjot objektu vai instrumentu, kas tiek izmantots darbîbai vai kam darbîba piemît.	0	F	J	T		Nederîgi derivâti	0
+sejauts	Priekðmets	Sejautains	Ietver nosaukto	Noòem vîrieðu dzimtes vienskaitïa nominatîva galotni '-s', iegûst celmu 'sejaut-', pievieno piedçkli '-ains', veidojot îpaðîbas vârdu ar nozîmi 'ietver sejautu'.	0	F	J	F		Precizitâte	1,000
+sejauts	Priekðmets	Sejautots	Ietver nosaukto	Noòem vîrieðu dzimtes vienskaitïa nominatîva galotni '-s', iegûst celmu 'sejaut-', pievieno piedçkli '-ots', veidojot îpaðîbas vârdu ar nozîmi 'ietver sejautu'.	0	F	J	T			
+telpiskot	Bût procesâ	Telpiskoðana	Process	Infinîva galotne '-t' tiek noòemta un tâs vietâ pievienots piedçklis '-ðana'.	1	M	J	T		J	
+sliecinât	Bût stâvoklî	sliecinâðana	Stâvoklis	Noòem darbîbas vârda galotni '-t' un pievieno vârddarinâðanas piedçkli '-ðana'.	0	F	J	T		Derîgi derivâti	5
+aizstâjeklis	Abstrakts nojçgums	aizstâjisks	Saistîts ar nosaukto	Noòemts lietvârda piedçklis '-eklis' un pievienots îpaðîbas vârda piedçklis '-isks'.	0	F	J	F		Nederîgi derivâti	2
+tçrbstît	Darît	Tçrbstuve	Vieta (lietv)	Nomainîts darbîbas vârda galotne '-ît' ar lietvârda piedçkli '-uve'.	0	F	N	T		Precizitâte	0,714
+plakstule	Priekðmets	plakstulains	Ietver nosaukto	Pievienots piedçklis -ains un noòemta galotne -e.	0	F	N	T			
+plakstule	Priekðmets	plakstulots	Ietver nosaukto	Pievienots piedçklis -ots un noòemta galotne -e.	0	F	N	T		N	
+glimþçt	Bût procesâ	glimþoðana	Process	Atvasinâjums veidots no verba glimþçt celma, pievienojot piedçkli -oðana.	0	F	N	T		Derîgi derivâti	4
+skurpelîgs	Bût stâvoklî	skurpelîgîba	Stâvoklis	Noòemta adjektîva galotne '-s' un pievienots lietvârda sufikss '-îba'.	0	F	N	F		Nederîgi derivâti	2
+zvilgsme	Abstrakts nojçgums	Zvilgîgs	Saistîts ar nosaukto	No lietvârda 'zvilgsme' celma 'zvilg-' pievienots apzîmçtâjvârda piedçklis '-îgs'.	0	F	N	F		Precizitâte	0,667

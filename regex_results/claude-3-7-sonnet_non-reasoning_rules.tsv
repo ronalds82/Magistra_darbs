@@ -1,0 +1,174 @@
+﻿Darīt	Darbība	s#^(.*?)brīdināt$#\1brīdināšana#
+Darīt	Darbība	s#^(.*?)aizsargāt$#\1aizsardzība#
+Darīt	Darbība	s#^(.*?)uzvarēt$#\1uzvarēšana#
+Darīt	Darbība	s#^(.*?)uzskatīt$#\1uzskatīt#
+Darīt	Darbība	s#^(.*?)draudēt$#\1draudēšana#
+Darīt	Darbība	s#^(.*?)ēt$#\1ēšana#
+Darīt	Darbība	s#^(.*?)āt$#\1āšana#
+Darīt	Darbība	s#^(.*?)gāt$#\1dzība#
+Darīt	Rezultāts	s#^(.*?)skolot$#\1skolojums#
+Darīt	Rezultāts	s#^(.*?)dziedāt$#\1dziesma#
+Darīt	Rezultāts	s#^(.*?)ierosināt$#\1ierosme#
+Darīt	Rezultāts	s#^(.*?)izpildīt$#\1izpildījums#
+Darīt	Rezultāts	s#^(.*?)maksāt$#\1maksājums#
+Darīt	Darītājs (dzīvs)	s#^(.*?)ārstēt$#\1ārsts#
+Darīt	Darītājs (dzīvs)	s#^(.*?)skriet$#\1skrējējs#
+Darīt	Darītājs (dzīvs)	s#^(.*?)aizliegt$#\1aizliedzējs#
+Darīt	Darītājs (dzīvs)	s#^(.*?)maksāt$#\1maksātājs#
+Darīt	Darītājs (dzīvs)	s#^(.*?)tulkot$#\1tulks#
+Priekšmets	Ietver nosaukto	s#^(.*?)mīkla$#\1mīklains#
+Priekšmets	Ietver nosaukto	s#^(.*?)poga$#\1pogains#
+Priekšmets	Ietver nosaukto	s#^(.*?)ķiploks$#\1ķiplokots#
+Priekšmets	Ietver nosaukto	s#^(.*?)mežģīne$#\1mežģīņots#
+Priekšmets	Ietver nosaukto	s#^(.*?)zvaigzne$#\1zvaigžņots#
+Priekšmets	Ietver nosaukto	s#^(.*?)a$#\1ains#
+Priekšmets	Ietver nosaukto	s#^(.*?)e$#\1ots#
+Priekšmets	Ietver nosaukto	s#^(.*?)s$#\1ots#
+Būt procesā	Process	s#^(.*?)skriet$#\1skrējums#
+Būt procesā	Process	s#^(.*?)sākt$#\1sākšana#
+Būt procesā	Process	s#^(.*?)aizsākt$#\1aizsākšana#
+Būt procesā	Process	s#^(.*?)iegūt$#\1iegūšana#
+Būt procesā	Process	s#^(.*?)identificēt$#\1identificēšanās#
+Būt procesā	Process	s#^(.*?)t$#\1šana#
+Būt procesā	Process	s#^(.*?)ēt$#\1ēšanās#
+Būt procesā	Process	s#^(.*?)iet$#\1ējums#
+Būt stāvoklī	Stāvoklis	s#^(.*?)lūgt$#\1lūgšana#
+Būt stāvoklī	Stāvoklis	s#^(.*?)ēt$#\1e#
+Būt stāvoklī	Stāvoklis	s#^(.*?)ties$#\1me#
+Būt stāvoklī	Stāvoklis	s#^(.*?)dzēt$#\1dzēšana#
+Abstrakts nojēgums	Saistīts ar nosaukto	s#^(.*?)ika$#\1isks#
+Abstrakts nojēgums	Saistīts ar nosaukto	s#^(.*?)ība$#\1isks#
+Abstrakts nojēgums	Saistīts ar nosaukto	s#^(.*?)ija$#\1isks#
+Darīt	Vieta (lietvārds)	s#^(.*?)dzīt$#\1dzītuve#
+Darīt	Vieta (lietvārds)	s#^(.*?)ražot$#\1ražotava#
+Darīt	Vieta (lietvārds)	s#^(.*?)dzīvot$#\1dzīvoklis#
+Darīt	Vieta (lietvārds)	s#^(.*?)lūgt$#\1lūgtuve#
+Darīt	Vieta (lietvārds)	s#^(.*?)ēst$#\1ēdnīca#
+Darīt	Cits	s#^(.*?)aizsargāt$#\1aizsardzība#
+Darīt	Cits	s#^(.*?)zīst$#\1zīdeklis#
+Darīt	Cits	s#^(.*?)vest$#\1vezums#
+Darīt	Cits	s#^(.*?)dziedāt$#\1dziedāšana#
+Darīt	Cits	s#^(.*?)kaitēt$#\1kaitēklis#
+Darīt	Instruments	s#^(.*?)kliegt$#\1kliedzamais#
+Darīt	Instruments	s#^(.*?)dzirdēt$#\1dzirdeklis#
+Darīt	Instruments	s#^(.*?)redzēt$#\1redzoklis#
+Darīt	Instruments	s#^(.*?)miglot$#\1miglotājs#
+Darīt	Instruments	s#^(.*?)aizsargāt$#\1aizsargs#
+Darīt	Darbība	s#^(.*?)ēt$#\1ēšana#
+Darīt	Darbība	s#^(.*?)āt$#\1āšana#
+Darīt	Darbība	s#^(.*?)atzība$#\1atzība#
+Darīt	Darbība	s#^(.*?)ēt$#\1ība#
+Darīt	Rezultāts	s#^(.*?)maksāt$#\1maksājums#
+Darīt	Rezultāts	s#^(.*?)ierosināt$#\1ierosme#
+Darīt	Rezultāts	s#^(.*?)izpildīt$#\1izpildījums#
+Darīt	Rezultāts	s#^(.*?)skolot$#\1skolojums#
+Darīt	Rezultāts	s#^(.*?)dziedāt$#\1dziesma#
+Darīt	Rezultāts	s#^(.*?)t$#\1jums#
+Darīt	Rezultāts	s#^(.*?)ināt$#\1me#
+Darīt	Rezultāts	s#^(.*?)ot$#\1ojums#
+Darīt	Rezultāts	s#^(.*?)āt$#\1a#
+Darīt	Darītājs (dzīvs)	s#^(.*?)āt$#\1ātājs#
+Darīt	Darītājs (dzīvs)	s#^(.*?)ēt$#\1s#
+Darīt	Darītājs (dzīvs)	s#^(.*?)gt$#\1dzējs#
+Darīt	Darītājs (dzīvs)	s#^(.*?)ot$#\1s#
+Priekšmets	Ietver nosaukto	s#^(.*?)zvaigzne$#\1zvaigžņots#
+Priekšmets	Ietver nosaukto	s#^(.*?)ķiploks$#\1ķiplokots#
+Priekšmets	Ietver nosaukto	s#^(.*?)mežģīne$#\1mežģīņots#
+Priekšmets	Ietver nosaukto	s#^(.*?)poga$#\1pogains#
+Priekšmets	Ietver nosaukto	s#^(.*?)mīkla$#\1mīklains#
+Būt procesā	Process	s#^(.*?)ūt$#\1ūšana#
+Būt procesā	Process	s#^(.*?)iet$#\1ējums#
+Būt procesā	Process	s#^(.*?)ēt$#\1ēšanās#
+Būt procesā	Process	s#^(.*?)ākt$#\1ākšana#
+Būt stāvoklī	Stāvoklis	s#^(.*?)vajadzēt$#\1vajadzēšana#
+Būt stāvoklī	Stāvoklis	s#^(.*?)veikties$#\1veiksme#
+Būt stāvoklī	Stāvoklis	s#^(.*?)pielūgt$#\1pielūgšana#
+Būt stāvoklī	Stāvoklis	s#^(.*?)kontrolēt$#\1kontrole#
+Būt stāvoklī	Stāvoklis	s#^(.*?)draudēt$#\1draudi#
+Abstrakts nojēgums	Saistīts ar nosaukto	s#^(.*?)ija$#\1isks#
+Abstrakts nojēgums	Saistīts ar nosaukto	s#^(.*?)ika$#\1isks#
+Abstrakts nojēgums	Saistīts ar nosaukto	s#^(.*?)ība$#\1isks#
+Darīt	Vieta (lietvārds)	s#^(.*?)dzīt$#\1dzītuve#
+Darīt	Vieta (lietvārds)	s#^(.*?)lūgt$#\1lūgtuve#
+Darīt	Vieta (lietvārds)	s#^(.*?)dzīvot$#\1dzīvoklis#
+Darīt	Vieta (lietvārds)	s#^(.*?)ēst$#\1ēdnīca#
+Darīt	Vieta (lietvārds)	s#^(.*?)ražot$#\1ražotava#
+Darīt	Cits	s#^(.*?)dziedāt$#\1dziedāšana#
+Darīt	Cits	s#^(.*?)zīst$#\1zīdeklis#
+Darīt	Cits	s#^(.*?)aizsargāt$#\1aizsardzība#
+Darīt	Cits	s#^(.*?)kaitēt$#\1kaitēklis#
+Darīt	Cits	s#^(.*?)vest$#\1vezums#
+Darīt	Instruments	s#^(.*?)kliegt$#\1kliedzamais#
+Darīt	Instruments	s#^(.*?)dzirdēt$#\1dzirdeklis#
+Darīt	Instruments	s#^(.*?)miglot$#\1miglotājs#
+Darīt	Instruments	s#^(.*?)redzēt$#\1redzoklis#
+Darīt	Instruments	s#^(.*?)aizsargāt$#\1aizsargs#
+Darīt	Darbība	s#^(.*?)ēt$#\1ēšana#
+Darīt	Darbība	s#^(.*?)stīt$#\1stīšana#
+Darīt	Darbība	s#^(.*?)armēt$#\1armēšana#
+Darīt	Darbība	s#^(.*?)arēt$#\1arēšana#
+Darīt	Darbība	s#^(.*?)īt$#\1īšana#
+Darīt	Darbība	s#^(.*?)īt$#\1ība#
+Darīt	Darbība	s#^(.*?)āt$#\1āšana#
+Darīt	Darbība	s#^(.*?)ināt$#\1ināšana#
+Darīt	Darbība	s#^(.*?)ot$#\1ošana#
+Darīt	Rezultāts	s#^(.*?)dziedāt$#\1dziesma#
+Darīt	Rezultāts	s#^(.*?)skolot$#\1skolojums#
+Darīt	Rezultāts	s#^(.*?)izpildīt$#\1izpildījums#
+Darīt	Rezultāts	s#^(.*?)ierosināt$#\1ierosme#
+Darīt	Rezultāts	s#^(.*?)maksāt$#\1maksājums#
+Darīt	Rezultāts	s#^(.*?)īt$#\1ījums#
+Darīt	Rezultāts	s#^(.*?)āt$#\1ājums#
+Darīt	Rezultāts	s#^(.*?)ināt$#\1me#
+Darīt	Darītājs (dzīvs)	s#^(.*?)ārstēt$#\1ārsts#
+Darīt	Darītājs (dzīvs)	s#^(.*?)aizliegt$#\1aizliedzējs#
+Darīt	Darītājs (dzīvs)	s#^(.*?)maksāt$#\1maksātājs#
+Darīt	Darītājs (dzīvs)	s#^(.*?)skriet$#\1skrējējs#
+Darīt	Darītājs (dzīvs)	s#^(.*?)tulkot$#\1tulks#
+Priekšmets	Ietver nosaukto	s#^(.*?)mīkla$#\1mīklains#
+Priekšmets	Ietver nosaukto	s#^(.*?)mežģīne$#\1mežģīņots#
+Priekšmets	Ietver nosaukto	s#^(.*?)ķiploks$#\1ķiplokots#
+Priekšmets	Ietver nosaukto	s#^(.*?)poga$#\1pogains#
+Priekšmets	Ietver nosaukto	s#^(.*?)zvaigzne$#\1zvaigžņots#
+Būt procesā	Process	s#^(.*?)iegūt$#\1iegūšana#
+Būt procesā	Process	s#^(.*?)sākt$#\1sākšana#
+Būt procesā	Process	s#^(.*?)identificēt$#\1identificēšanās#
+Būt procesā	Process	s#^(.*?)skriet$#\1skrējums#
+Būt procesā	Process	s#^(.*?)aizsākt$#\1aizsākšana#
+Būt procesā	Process	s#^(.*?)t$#\1šana#
+Būt procesā	Process	s#^(.*?)ēt$#\1ēšana#
+Būt procesā	Process	s#^(.*?)ēt$#\1ēšanās#
+Būt procesā	Process	s#^(.*?)t$#\1jums#
+Būt stāvoklī	Stāvoklis	s#^(.*?)kontrolēt$#\1kontrole#
+Būt stāvoklī	Stāvoklis	s#^(.*?)draudēt$#\1draudi#
+Būt stāvoklī	Stāvoklis	s#^(.*?)veikties$#\1veiksme#
+Būt stāvoklī	Stāvoklis	s#^(.*?)pielūgt$#\1pielūgšana#
+Būt stāvoklī	Stāvoklis	s#^(.*?)vajadzēt$#\1vajadzēšana#
+Būt stāvoklī	Stāvoklis	s#^(.*?)ēt$#\1e#
+Būt stāvoklī	Stāvoklis	s#^(.*?)ēt$#\1i#
+Būt stāvoklī	Stāvoklis	s#^(.*?)ties$#\1sme#
+Būt stāvoklī	Stāvoklis	s#^(.*?)gt$#\1gšana#
+Būt stāvoklī	Stāvoklis	s#^(.*?)dzēt$#\1dzēšana#
+Abstrakts nojēgums	Saistīts ar nosaukto	s#^(.*?)ika$#\1isks#
+Abstrakts nojēgums	Saistīts ar nosaukto	s#^(.*?)ība$#\1isks#
+Abstrakts nojēgums	Saistīts ar nosaukto	s#^(.*?)ētika$#\1ētisks#
+Abstrakts nojēgums	Saistīts ar nosaukto	s#^(.*?)īmija$#\1īmisks#
+Abstrakts nojēgums	Saistīts ar nosaukto	s#^(.*?)tehnika$#\1tehnisks#
+Darīt	Vieta (lietvārds)	s#^(.*?)dzīvot$#\1dzīvoklis#
+Darīt	Vieta (lietvārds)	s#^(.*?)ražot$#\1ražotava#
+Darīt	Vieta (lietvārds)	s#^(.*?)lūgt$#\1lūgtuve#
+Darīt	Vieta (lietvārds)	s#^(.*?)ēst$#\1ēdnīca#
+Darīt	Vieta (lietvārds)	s#^(.*?)dzīt$#\1dzītuve#
+Darīt	Vieta (lietvārds)	s#^(.*?)t$#\1tava#
+Darīt	Vieta (lietvārds)	s#^(.*?)t$#\1tuve#
+Darīt	Vieta (lietvārds)	s#^(.*?)st$#\1dnīca#
+Darīt	Cits	s#^(.*?)st$#\1zums#
+Darīt	Cits	s#^(.*?)st$#\1deklis#
+Darīt	Cits	s#^(.*?)ēt$#\1ēklis#
+Darīt	Cits	s#^(.*?)t$#\1šana#
+Darīt	Cits	s#^(.*?)t$#\1dzība#
+Darīt	Instruments	s#^(.*?)miglot$#\1miglotājs#
+Darīt	Instruments	s#^(.*?)aizsargāt$#\1aizsargs#
+Darīt	Instruments	s#^(.*?)redzēt$#\1redzoklis#
+Darīt	Instruments	s#^(.*?)dzirdēt$#\1dzirdeklis#
+Darīt	Instruments	s#^(.*?)kliegt$#\1kliedzamais#

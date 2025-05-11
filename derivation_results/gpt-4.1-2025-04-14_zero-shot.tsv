@@ -1,0 +1,38 @@
+Lemma	Semantiskâ_kat_1	Kandidâts	Semantiskâ_kat_2	Paskaidrojums	Bieþums	Tips	Grupa	Manuâla pârbaude		Kopâ	
+veikt	Darît	veikums	Rezultâts	pievienota sufiksa -ums galotne darbîbas vârda saknei	8126	T	V	T		Derîgi derivâti	17
+veikt	Darît	veiksme	Rezultâts	pievienota sufiksa -sme galotne darbîbas vârda saknei	28480	T	V	F		Nederîgi derivâti	15
+zvaigzne	Priekðmets	zvaigznâjs	Ietver nosaukto	Pievieno atvasinâjuma sufiksu '-âjs', kas norâda uz priekðmetu kopumu vai ietvaru, kas ietver zvaigznes.	2804	T	V	F		Precizitâte	0,531
+zvaigzne	Priekðmets	zvaigþòu kopa	Ietver nosaukto	Izveido salikteòa veidâ, pievienojot substantîvu 'kopa', kas norâda uz kopumu, kas ietver zvaigznes.	0	F	V	F			
+pûst	Bût procesâ	pûðana	Process	pievienota lietvârda atvasinâjuma sufiksâcija -an-.	974	T	V	T		V	
+pûst	Bût procesâ	pûtiens	Process	pievienota lietvârda atvasinâjuma sufiksâcija -ien-.	450	T	V	F		Derîgi derivâti	6
+riebt	Bût stâvoklî	riebums	Stâvoklis	darbîbas vârda saknei pievienota deverbâlâ lietvârda sufikss -um	1998	T	V	T		Nederîgi derivâti	5
+riebt	Bût stâvoklî	riebumîba	Stâvoklis	darbîbas vârda saknei pievienota deverbâlâ lietvârda sufikss -îba	0	F	V	F		Precizitâte	0,545
+medicîna	Abstrakts nojçgums	medicînisks	Saistîts ar nosaukto	vârds veidots, pievienojot atvasinâjuma izskaòu '-isks', lai apzîmçtu îpaðîbu vai piederîbu nosauktajam.	16946	T	V	T			
+medicîna	Abstrakts nojçgums	medicîniskais	Saistîts ar nosaukto	vârds veidots, pievienojot îpaðîbas vârda izskaòu '-ais', lai apzîmçtu piederîbu vai saistîbu ar medicînu.	363	T	V	D		I	
+medicîna	Abstrakts nojçgums	medicîniski	Saistîts ar nosaukto	vârds veidots, pievienojot apstâkïa vârda galotni '-i', lai apzîmçtu veidu vai saistîbu ar medicînu.	816	T	V	D		Derîgi derivâti	3
+skriet	Darît	skrçjçjs	Darîtâjs (dzîvs)	pievienota atvasinâjuma piedçkïa '-çj-' un galotnes '-s' vîrieðu dzimumam	7774	T	V	T		Nederîgi derivâti	3
+skriet	Darît	skrçjçja	Darîtâjs (dzîvs)	pievienota atvasinâjuma piedçkïa '-çj-' un galotnes '-a' sievieðu dzimumam	874	T	V	D		Precizitâte	0,500
+ideja	Abstrakts nojçgums	idejisks	Saistîts ar nosaukto	"Pievienota sufiksa -isks, lai pârvçrstu abstrakto nojçgumu îpaðîbas vârdâ, kas nozîmç ""saistîts ar ideju""."	1323	T	V	T			
+ideja	Abstrakts nojçgums	idejisks	Saistîts ar nosaukto	"Pievienota sufiksa -isks, lai no lietvârda izveidotu îpaðîbas vârdu ar nozîmi ""saistîts ar ideju""."	1323	T	V	D		J	
+nest	Darît	neseðana	Darbîba	darbîbas vârda saknei pievienota lietvârda atvasinâjuma piedçklis -ðana	0	F	I	F		Derîgi derivâti	5
+nest	Darît	nests	Darbîba	darbîbas vârda saknei pievienots lietvârda atvasinâjuma galotnes -ts	345	T	I	F		Nederîgi derivâti	2
+iet	Bût procesâ	ieðana	Process	pievieno atvasinâjuma sufiksu -ðan- un galotni -a	5770	T	I	T		Precizitâte	0,714
+iet	Bût procesâ	iejiens	Process	pievieno atvasinâjuma sufiksu -ien- un galotni -s	0	F	I	F			
+ir	Bût stâvoklî	esîba	Stâvoklis	pievienota sufiksâcija ar -îba lemmai 'es-'	3484	T	I	T		N	
+ir	Bût stâvoklî	bûtîba	Stâvoklis	pievienota sufiksâcija ar -îba lemmai 'bût-'	72659	T	I	T		Derîgi derivâti	3
+atklusinât	Darît	atklusinâtâjs	Instruments	jâpievieno sufikss -âjs, kas latvieðu valodâ apzîmç instrumentu vai lîdzekli, ar kuru veic darbîbu.	0	F	J	T		Nederîgi derivâti	5
+sejauts	Priekðmets	sejautne	Ietver nosaukto	pievienota atvasinâjuma sufikss -ne, kas norâda uz ietveri vai vietu, kur atrodas nosauktais priekðmets.	0	F	J	F		Precizitâte	0,375
+telpiskot	Bût procesâ	telpiskoðana	Process	Verba 'telpiskot' pârveidoðana par lietvârdu, izmantojot sufiksu '-ðana', lai iegûtu procesa nozîmi.	1	M	J	T			
+sliecinât	Bût stâvoklî	sliecinâjums	Stâvoklis	pievienota atvasinâjuma sufikss -âjums pie darbîbas vârda saknes	0	F	J	T			
+aizstâjeklis	Abstrakts nojçgums	aizstâjekïa	Saistîts ar nosaukto	pievienota piedçkïa -a forma, lai apzîmçtu 'saistîtu ar aizstâjekli' îpaðîbas vai piederîbu	0	F	J	F			
+aizstâjeklis	Abstrakts nojçgums	aizstâjeklisks	Saistîts ar nosaukto	pievienota sufiksa -isks forma, lai apzîmçtu îpaðîbas, kas piemît aizstâjeklim	0	F	J	T			
+aizstâjeklis	Abstrakts nojçgums	aizstâjeklîgs	Saistîts ar nosaukto	pievienota sufiksa -îgs forma, lai apzîmçtu îpaðîbas, kas ir lîdzîgas aizstâjeklim	0	F	J	T			
+tçrbstît	Darît	tçrbstîtava	Vieta (lietv)	darbîbas vârda 'tçrbstît' celmam pievienota vietu apzîmçjoðâ sufiksa '-ava' galotne.	0	F	N	T			
+plakstule	Priekðmets	plakstuïnîca	Ietver nosaukto	nepiecieðams pievienot sufiksu -nîca sievieðu dzimtes 1. deklinâcijas formai, kas norâda vietu, kur atrodas vai tiek glabâtas plakstules	0	F	N	F			
+plakstule	Priekðmets	plakstuïkaste	Ietver nosaukto	nepiecieðams pievienot vârdu 'kaste' kâ salikteòa otro daïu, veidojot vârdu, kas apzîmç priekðmetu, kurâ ietver vai glabâ plakstules	0	F	N	F			
+glimþçt	Bût procesâ	glimþçðana	Process	Verba pârvçrðana substantîvâ, pievienojot sufiksu -ðana	0	F	N	T			
+glimþçt	Bût procesâ	glimþçðanâs	Process	Verba pârvçrðana substantîvâ ar reflexîvo nozîmi, pievienojot priedçkli -s- un sufiksu -ðanâs	0	F	N	D			
+skurpelîgs	Bût stâvoklî	skurpelîgums	Stâvoklis	Pievienota lietvârdu veidoðanas galotne -ums pie îpaðîbas vârda pamatnes, lai norâdîtu uz stâvokli.	0	F	N	T			
+skurpelîgs	Bût stâvoklî	skurpelîba	Stâvoklis	Pievienota lietvârdu veidoðanas galotne -îba pie îpaðîbas vârda pamatnes, lai norâdîtu uz stâvokli.	0	F	N	F			
+zvilgsme	Abstrakts nojçgums	zvîgsminieks	Saistîts ar nosaukto	pievienota sufiksa -niek- forma, kas nozîmç personu, kas ir saistîta ar 'zvilgsmi'.	0	F	N	F			
+zvilgsme	Abstrakts nojçgums	zvîgsminiecisks	Saistîts ar nosaukto	pievienots sufikss -niecisks, kas norâda uz îpaðîbu, kas saistîta ar 'zvilgsmi' vai 'zvîgsminieku'.	0	F	N	F			

@@ -1,0 +1,50 @@
+Lemma	Semantiskâ_kat_1	Kandidâts	Semantiskâ_kat_2	Paskaidrojums	Bieþums	Tips	Grupa	Manuâla pârbaude		Kopâ	
+veikt	Darît	veikums	Rezultâts	darbîbas vârda 'veikt' atvasinâjums ar izskaòu '-ums'	8126	T	V	T		Derîgi derivâti	27
+veikt	Darît	veice	Rezultâts	darbîbas vârda 'veikt' atvasinâjums, nomainot saknes galotni 'k' ar 'c' un pievienojot galotni 'e'	24	T	V	T		Nederîgi derivâti	19
+veikt	Darît	veikme	Rezultâts	darbîbas vârda 'veikt' atvasinâjums ar izskaòu '-me'	6	T	V	F		Precizitâte	0,587
+zvaigzne	Priekðmets	zvaigþòots	Ietver nosaukto	Galotnes maiòa '-e' -> '-ots' un lîdzskaòu mija 'zn' -> 'þò'.	1110	T	V	T			
+zvaigzne	Priekðmets	zvaigþòains	Ietver nosaukto	Galotnes maiòa '-e' -> '-ains' un lîdzskaòu mija 'zn' -> 'þò'.	7	T	V	T		V	
+pûst	Bût procesâ	pûðana	Process	infinitîva celms + piedçklis -ðan- + galotne -a	974	T	V	T		Derîgi derivâti	11
+pûst	Bût procesâ	pûsma	Process	sakne + patskaòa iespraudums + piedçklis -sm- + galotne -a	235	T	V	F		Nederîgi derivâti	4
+pûst	Bût procesâ	pûðanâs	Process	infinitîva celms + piedçklis -ðan- + atgriezeniskâ galotne -âs	212	T	V	D		Precizitâte	0,733
+riebt	Bût stâvoklî	rieba	Stâvoklis	Nenotiek nekâdas morfoloìiskas izmaiòas, izòemot gramatiskâs dzimtes maiòa uz sievieðu dzimti	34	T	V	F			
+riebt	Bût stâvoklî	riebums	Stâvoklis	Celma beigâm pievieno izskaòu '-ums'	1998	T	V	T		I	
+riebt	Bût stâvoklî	riebðana	Stâvoklis	Infinitîva beigâm pievieno izskaòu '-ðana'	8	T	V	T		Derîgi derivâti	3
+riebt	Bût stâvoklî	riebîgums	Stâvoklis	Celma beigâm pievieno piedçkli '-îg-' un izskaòu '-ums'	33	T	V	T		Nederîgi derivâti	4
+medicîna	Abstrakts nojçgums	medicînisks	Saistîts ar nosaukto	lietvârda 'medicîna' atvasinâjums, kur atmesta lietvârda galotne '-a' un pievienota izskaòa '-isks'	16946	T	V	T		Precizitâte	0,429
+skriet	Darît	skrçjçjs	Darîtâjs (dzîvs)	Verba 3. personas celma forma ('skrie-' ? 'skrçj-') + atvasinâtâjpiedçklis '-çj-' + galotne '-s'.	7774	T	V	T			
+skriet	Darît	skrieðs	Darîtâjs (dzîvs)	Verba nenoteiksmes celms ('skrie-') + atvasinâtâjpiedçklis '-ð-' + galotne '-s'.	0	F	V	F		J	
+ideja	Abstrakts nojçgums	idejisks	Saistîts ar nosaukto	No lemmas 'ideja' atvasina îpaðîbas vârdu, nomainot galotni '-a' ar izskaòu '-isks'.	1323	T	V	T		Derîgi derivâti	7
+nest	Darît	neðana	Darbîba	Vârdam 'nest' tiek pievienota izskaòa '-ðana', kas ir produktîvs veidojums darbîbas vârdu pârveidei par lietvârdiem, kas apzîmç darbîbu.	1137	T	I	T		Nederîgi derivâti	5
+nest	Darît	nesums	Darbîba	Vârdam 'nest' tiek pievienota izskaòa '-ums', kas no darbîbas vârda veido lietvârdu, kurð apzîmç darbîbas rezultâtu.	18	T	I	F		Precizitâte	0,583
+iet	Bût procesâ	ieðana	Process	Verbam 'iet' tiek pievienota izskaòa -ðana, lai izveidotu lietvârdu ar nozîmi 'process'	5770	T	I	T			
+iet	Bût procesâ	ieðanâs	Process	Verbam 'iet' tiek pievienota izskaòa -ðanâs, lai izveidotu atgriezenisko lietvârdu ar nozîmi 'process'	5	M	I	D		N	
+iet	Bût procesâ	iejums	Process	Verbam 'iet' tiek pievienota izskaòa -jums, lai izveidotu lietvârdu ar nozîmi 'process'	0	F	I	F		Derîgi derivâti	6
+ir	Bût stâvoklî	esme	Stâvoklis	pievienojas piedçklis -sm- un izdzçðas saknes patskanis i darbîbas vârda nenoteiksmes formâ ir-t	113	T	I	F		Nederîgi derivâti	6
+ir	Bût stâvoklî	ira	Stâvoklis	pievienojas galotne -a darbîbas vârda tagadnes formai ir	876	T	I	F		Precizitâte	0,500
+ir	Bût stâvoklî	esamîba	Stâvoklis	tiek mainîts saknes patskanis no i uz e un pievienots piedçklis -amîb- darbîbas vârda nenoteiksmes formâ ir-t	11371	T	I	T			
+atklusinât	Darît	atklusinâmais	Instruments	"no ""atklusinât"" atvasinâjumu ""atklusinâmais"" iegûst, pievienojot darbîbas vârdam piedçkli -am- un galotni -ais"	0	F	J	T			
+atklusinât	Darît	atklusinâtâjs	Instruments	"no ""atklusinât"" atvasinâjumu ""atklusinâtâjs"" iegûst, pievienojot darbîbas vârdam piedçkli -tâj- un galotni -s"	0	F	J	T			
+atklusinât	Darît	atklusineklis	Instruments	"no ""atklusinât"" atvasinâjumu ""atklusineklis"" iegûst, noòemot darbîbas vârda piedçkli -inâ- un pievienojot piedçkli -ekl- un galotni -is"	0	F	J	T			
+sejauts	Priekðmets	sejautots	Ietver nosaukto	sejauts + ots = sejautots	0	F	J	T			
+sejauts	Priekðmets	sejautains	Ietver nosaukto	sejauts + ains = sejautains	0	F	J	F			
+telpiskot	Bût procesâ	telpiskoðana	Process	pie darbîbas vârda celma ar galotni -ot, pievieno atgriezenisko piedçkli -ðan un sievieðu dzimtes galotni -a	1	M	J	T			
+telpiskot	Bût procesâ	telpiskojums	Process	pie darbîbas vârda celma ar galotni -ot, pievieno piedçkli -um un vîrieðu dzimtes galotni -s	0	F	J	F			
+sliecinât	Bût stâvoklî	sliecinâts	Stâvoklis	divdabja formas (pagâtnes pasîvais divdabis) izmantoðana	0	F	J	F			
+sliecinât	Bût stâvoklî	sliecinâðana	Stâvoklis	darbîbas vârda nominâla forma (verbâlsubstantîvs) ar izskaòu -ðana	0	F	J	T			
+sliecinât	Bût stâvoklî	slieciens	Stâvoklis	darbîbas vârda celma izmantoðana ar izskaòu -iens	0	F	J	F			
+sliecinât	Bût stâvoklî	sliecin	Stâvoklis	darbîbas vârda celma izmantoðana bez izskaòas (nulles derivâcija)	0	F	J	F			
+aizstâjeklis	Abstrakts nojçgums	aizstâjeklisks	Saistîts ar nosaukto	No lietvârda 'aizstâjeklis' atvasinâts îpaðîbas vârds, pievienojot galotni '-isks', kas norâda uz saistîbu ar nosaukto.	0	F	J	T			
+tçrbstît	Darît	tçrbstîtava	Vieta (lietv)	Pie darbîbas vârda celma tçrbstî- pievieno izskaòu -tava	0	F	N	T			
+tçrbstît	Darît	tçrbstîkla	Vieta (lietv)	Pie darbîbas vârda celma tçrbstî- pievieno izskaòu -kla	0	F	N	F			
+tçrbstît	Darît	tçrbstuve	Vieta (lietv)	Pie darbîbas vârda celma (tçrbst-) pievieno izskaòu -uve	0	F	N	T			
+tçrbstît	Darît	tçrbsteklis	Vieta (lietv)	Pie darbîbas vârda celma tçrbst- pievieno izskaòu -eklis	0	F	N	F			
+tçrbstît	Darît	tçrbstîklis	Vieta (lietv)	Pie darbîbas vârda celma tçrbstî- pievieno izskaòu -klis	0	F	N	D			
+plakstule	Priekðmets	plakstulains	Ietver nosaukto	vârdam 'plakstule' atmet galotni -e un pievieno piedçkli -ain- un galotni -s	0	F	N	T			
+plakstule	Priekðmets	plakstulots	Ietver nosaukto	vârdam 'plakstule' atmet galotni -e un pievieno piedçkli -ot- un galotni -s	0	F	N	T			
+glimþçt	Bût procesâ	glimþçðana	Process	lietvârda darinâðana no darbîbas vârda 'glimþçt', pievienojot izskaòu -ðana	0	F	N	T			
+glimþçt	Bût procesâ	glimþçjums	Process	lietvârda darinâðana no darbîbas vârda 'glimþçt', pievienojot izskaòu -jums	0	F	N	F			
+skurpelîgs	Bût stâvoklî	skurpelîgums	Stâvoklis	No îpaðîbas vârda 'skurpelîgs' darina lietvârdu 'skurpelîgums', pievienojot izskaòu '-ums'.	0	F	N	T			
+skurpelîgs	Bût stâvoklî	skurpelîba	Stâvoklis	No îpaðîbas vârda 'skurpelîgs' darina lietvârdu 'skurpelîba', nomainot izskaòu '-îgs' ar '-îba'.	0	F	N	F			
+zvilgsme	Abstrakts nojçgums	zvalgîgs	Saistîts ar nosaukto	Aizstâjot sakni 'zvilgsm' ar 'zvalg' un pievienojot izskaòu '-îgs'.	0	F	N	F			
+zvilgsme	Abstrakts nojçgums	zvalgisks	Saistîts ar nosaukto	Aizstâjot sakni 'zvilgsm' ar 'zvalg' un pievienojot izskaòu '-isks'.	0	F	N	F			

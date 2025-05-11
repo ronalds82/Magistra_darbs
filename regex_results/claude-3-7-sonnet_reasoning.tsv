@@ -1,0 +1,25 @@
+Lemma	Semantiskâ_kat_1	Reg. izteiksme	Kandidâts	Semantiskâ_kat_2	Bieþums	Tips	Grupa	Manuâla pârbaude		Kopâ	
+veikt	Darît	s#^(.*?)t$#\1tuve#	veiktuve	Vieta (lietvârds)	0	F	V	T		Derîgi derivâti	16
+skriet	Darît	s#^(.*?)t$#\1tuve#	skrietuve	Vieta (lietvârds)	2	M	V	T		Nederîgi derivâti	7
+pûst	Bût procesâ	s#^(.*?)t$#\1ðana#	pûsðana	Process	2	M	V	F		Precizitâte	0,696
+riebt	Bût stâvoklî	s#^(.*?)t$#\1ðana#	riebðana	Stâvoklis	8	T	V	T			
+zvaigzne	Priekðmets	s#^(.*?)ne$#\1òots#	zvaigzòots	Ietver nosaukto	1	M	V	F		V	
+skriet	Darît	s#^(.*?)iet$#\1çjçjs#	skrçjçjs	Darîtâjs (dzîvs)	7774	T	V	T		Derîgi derivâti	4
+tçrbstît	Darît	s#^(.*?)t$#\1tuve#	tçrbstîtuve	Vieta (lietvârds)	0	F	N	T		Nederîgi derivâti	2
+glimþçt	Bût procesâ	s#^(.*?)t$#\1ðana#	glimþçðana	Process	0	F	N	D		Precizitâte	0,667
+tçrbstît	Darît	s#^(.*?)ît$#\1îjums#	tçrbstîjums	Rezultâts	0	F	N	T			
+glimþçt	Bût procesâ	s#^(.*?)çt$#\1çðanâs#	glimþçðanâs	Process	0	F	N	T		N	
+atklusinât	Darît	s#^(.*?)t$#\1tuve#	atklusinâtuve	Vieta (lietvârds)	0	F	J	T		Derîgi derivâti	3
+telpiskot	Bût procesâ	s#^(.*?)t$#\1ðana#	telpiskoðana	Process	1	M	J	T		Nederîgi derivâti	0
+sliecinât	Bût stâvoklî	s#^(.*?)t$#\1ðana#	sliecinâðana	Stâvoklis	0	F	J	T		Precizitâte	1,000
+atklusinât	Darît	s#^(.*?)inât$#\1me#	atklusme	Rezultâts	0	F	J	F			
+atklusinât	Darît	s#^(.*?)ât$#\1âtâjs#	atklusinâtâjs	Darîtâjs (dzîvs)	0	F	J	T		J	
+atklusinât	Darît	s#^(.*?)ât$#\1âðana#	atklusinâðana	Darbîba	0	F	J	T		Derîgi derivâti	7
+atklusinât	Darît	s#^(.*?)ât$#\1âðana#	atklusinâðana	Cits	0	F	J	T		Nederîgi derivâti	1
+atklusinât	Darît	s#^(.*?)ât$#\1âjums#	atklusinâjums	Rezultâts	0	F	J	T		Precizitâte	0,875
+nest	Darît	s#^(.*?)t$#\1tuve#	nestuve	Vieta (lietvârds)	0	F	I	T			
+iet	Bût procesâ	s#^(.*?)t$#\1ðana#	ieðana	Process	5770	T	I	T		I	
+nest	Darît	s#^(.*?)st$#\1zums#	nezums	Cits	0	F	I	F		Derîgi derivâti	2
+nest	Darît	s#^(.*?)st$#\1dnîca#	nednîca	Vieta (lietvârds)	0	F	I	F		Nederîgi derivâti	4
+nest	Darît	s#^(.*?)st$#\1deklis#	nedeklis	Cits	0	F	I	F		Precizitâte	0,333
+iet	Bût procesâ	s#^(.*?)iet$#\1çjums#	çjums	Process	6	T	I	F			
